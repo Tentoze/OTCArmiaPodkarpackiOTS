@@ -225,7 +225,7 @@ function UIMinimap:onMouseRelease(pos, button)
     return true
   elseif button == MouseRightButton then
     local menu = g_ui.createWidget('PopupMenu')
-    menu:addOption(tr('Create mark'), function() self:createFlagWindow(mapPos) end)
+    menu:addOption((tr('Create mark') .. ': X: ' .. mapPos.x .. ' Y: ' .. mapPos.y .. ' Z: ' .. mapPos.z), function() self:createFlagWindow(mapPos) end)
     menu:display(pos)
     return true
   end

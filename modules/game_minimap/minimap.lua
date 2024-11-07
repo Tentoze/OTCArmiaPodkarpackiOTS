@@ -14,9 +14,9 @@ function init()
   minimapButton = modules.client_topmenu.addRightGameToggleButton('minimapButton', tr('Minimap') .. ' (Ctrl+M)', '/images/topbuttons/minimap', toggle)
   minimapButton:setOn(true)
 
-  topMenu = g_ui.displayUI('topmenu')
+  topMenu = modules.client_topmenu.getTopMenu()
 
-  positionLabel = topMenu:getChildById('positionMapLabel')
+  positionLabel = topMenu:recursiveGetChildById('positionMapLabel')
 
   minimapWindow = g_ui.loadUI('minimap', modules.game_interface.getRightPanel())
   minimapWindow:setContentMinimumHeight(64)
@@ -138,7 +138,7 @@ function updateCameraPosition()
   local player = g_game.getLocalPlayer()
   if not player then return end
   local pos = player:getPosition()
-  text = 'X: ' .. pos.x .. 'Y: ' .. pos.y .. 'Z: ' .. pos.z
+  text = 'X: ' .. pos.x .. ' Y: ' .. pos.y .. ' Z: ' .. pos.z
   positionLabel:setText(text)
   if not pos then return end
   if not minimapWidget:isDragging() then

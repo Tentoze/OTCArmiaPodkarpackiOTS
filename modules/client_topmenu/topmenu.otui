@@ -28,6 +28,8 @@ TopMenuPanel
     text-auto-resize: true
     anchors.top: parent.top
     anchors.left: rightGameButtonsPanel.left
+    margin-left: -100
+    padding-right: 10
 
   TopMenuPingLabel
     color: white
