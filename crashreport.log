@@ -1,0 +1,50 @@
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.2
+build date: Jun 24 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Sep 16 2022 16:00:55
+exception: Access violation (0xc0000005)
+exception address: 0x0042c307
+  backtrace:
+    0: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe [0x000000000042C307]
+    1: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe [0x0000000000429ECB]
+    2: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(wglewIsSupported+0xedc44) [0x000000000071CD74]
+    3: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(wglewIsSupported+0x888c9) [0x00000000006B79F9]
+    4: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(wglewIsSupported+0xf7584) [0x00000000007266B4]
+    5: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe [0x0000000000452773]
+    6: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(alGetListeneriv+0x3cadb) [0x0000000000510B8B]
+    7: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(alGetListeneriv+0x3cf1c) [0x0000000000510FCC]
+    8: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(alGetListeneriv+0x3e597) [0x0000000000512647]
+    9: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(alGetListeneriv+0x3fa82) [0x0000000000513B32]
+    10: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlAllocateHeap+0x3e) [0x0000000077425DEE]
+    11: C:\WINDOWS\System32\msvcrt.dll(malloc+0x90) [0x0000000077357580]
+    12: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(alGetListeneriv+0x3cf60) [0x0000000000511010]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.2
+build date: Jun 24 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Sep 16 2022 20:19:33
+exception: Access violation (0xc0000005)
+exception address: 0x0042c307
+  backtrace:
+    0: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe [0x000000000042C307]
+    1: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe [0x0000000000429ECB]
+    2: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(wglewIsSupported+0xedc44) [0x000000000071CD74]
+    3: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(wglewIsSupported+0x888c9) [0x00000000006B79F9]
+    4: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(wglewIsSupported+0xf7584) [0x00000000007266B4]
+    5: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe [0x0000000000452773]
+    6: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(alGetListeneriv+0x3cadb) [0x0000000000510B8B]
+    7: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(alGetListeneriv+0x3cf1c) [0x0000000000510FCC]
+    8: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(alGetListeneriv+0x3e597) [0x0000000000512647]
+    9: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(alGetListeneriv+0x3fa82) [0x0000000000513B32]
+    10: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlAllocateHeap+0x3e) [0x0000000077425DEE]
+    11: C:\WINDOWS\System32\msvcrt.dll(malloc+0x90) [0x0000000077357580]
+    12: C:\Users\Sadek\Desktop\OTC Armia Podkarpacki OTS\Apo.exe(alGetListeneriv+0x3cf60) [0x0000000000511010]
+
