@@ -1,0 +1,1 @@
+{"id": 219923, "x": 219, "y": 151, "z": 6, "title": "Nagroda", "description": "Zwyky kawaek papieru. Raczej nie ma zadnego zastosowania.", "category1": 7, "category2": 2578}

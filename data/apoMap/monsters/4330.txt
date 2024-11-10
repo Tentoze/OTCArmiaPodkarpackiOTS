@@ -1,0 +1,3 @@
+{"id": 415067, "x": 503, "y": 872, "z": 12, "title": "", "description": "", "category1": 2, "category2": 4330}
+{"id": 389004, "x": 1320, "y": 188, "z": 7, "title": "", "description": "", "category1": 2, "category2": 4330}
+{"id": 388904, "x": 1266, "y": 196, "z": 7, "title": "", "description": "", "category1": 2, "category2": 4330}

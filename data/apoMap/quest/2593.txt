@@ -1,0 +1,2 @@
+{"id": 219974, "x": 1277, "y": 488, "z": 1, "title": "!Wejscie", "description": "Bardzo prosta misja. Wystarczy isc przed siebie.", "category1": 5, "category2": 2593}
+{"id": 219975, "x": 1110, "y": 769, "z": 7, "title": "Nagroda", "description": "Nagroda moze nie jest zbyt cenna, ale moze nam sie przydac.", "category1": 5, "category2": 2593}

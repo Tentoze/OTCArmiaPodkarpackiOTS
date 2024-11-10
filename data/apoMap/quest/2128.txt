@@ -1,0 +1,2 @@
+{"id": 185577, "x": 310, "y": 491, "z": 8, "title": "Nagroda", "description": "Lider smokow broni cennych nagrod.", "category1": 5, "category2": 2128}
+{"id": 185578, "x": 308, "y": 491, "z": 8, "title": "Nagroda", "description": "Lider smokow broni cennych nagrod.", "category1": 5, "category2": 2128}

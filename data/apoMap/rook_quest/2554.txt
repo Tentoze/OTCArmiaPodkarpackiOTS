@@ -1,0 +1,1 @@
+{"id": 219878, "x": 265, "y": 34, "z": 4, "title": "Nagroda", "description": "Zielone stworki zwane Goblinami bronia skarbu, ktory niewatpliwie przyda sie poczatkujacemu wojownikowi.", "category1": 7, "category2": 2554}

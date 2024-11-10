@@ -1,0 +1,2 @@
+{"id": 185593, "x": 346, "y": 310, "z": 8, "title": "!Wejscie", "description": "Nekromanci, bohaterowie oraz ogniste diaby strzega dostepu do miecza.", "category1": 5, "category2": 2119}
+{"id": 219978, "x": 345, "y": 336, "z": 9, "title": "Nagroda", "description": "Teraz mozesz nacieszyc sie swoim nowym mieczem!", "category1": 5, "category2": 2119}

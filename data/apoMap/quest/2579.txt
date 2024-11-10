@@ -1,0 +1,1 @@
+{"id": 219926, "x": 347, "y": 355, "z": 3, "title": "Nagroda", "description": "Nagroda jest zaledwie 1 platinum coin. Zawsze to jednak cos...", "category1": 5, "category2": 2579}

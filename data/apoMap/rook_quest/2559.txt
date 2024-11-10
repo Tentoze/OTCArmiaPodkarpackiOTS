@@ -1,0 +1,1 @@
+{"id": 219884, "x": 213, "y": 129, "z": 5, "title": "Nagroda", "description": "Topor Dwarf&#039;ow zosta skradziony! Rozne odmiany Minotaurow strzega go nadzwyczaj dobrze. Dobrym posunieciem jest miec pierscien niewidzialnosci ze soba... Postaraj sie i zdobadz Topor!", "category1": 7, "category2": 2559}

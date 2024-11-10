@@ -1,0 +1,2 @@
+{"id": 219967, "x": 456, "y": 158, "z": 8, "title": "!Start", "description": "Aby moc przejsc, a dokadniej usunac magiczna sciane, nalezy przeciagnac dzwignie.", "category1": 5, "category2": 2590}
+{"id": 219968, "x": 460, "y": 147, "z": 9, "title": "Nagroda", "description": "Mozemy odebrac nagrode. To nie byo zbyt trudne, prawda?", "category1": 5, "category2": 2590}

@@ -1,0 +1,1 @@
+{"id": 219876, "x": 319, "y": 144, "z": 8, "title": "Nagroda", "description": "Nieopodal wioski zamieszkaej przez ludzi znajduje sie jaskinia, w ktorej mozna odnalezc tarcze.", "category1": 7, "category2": 2552}

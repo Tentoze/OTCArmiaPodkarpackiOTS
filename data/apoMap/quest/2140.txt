@@ -1,0 +1,4 @@
+{"id": 185608, "x": 367, "y": 307, "z": 9, "title": "Nagroda", "description": "Wojownicy, ktorzy pokonaja potezne demony moga siegnac po nagrody.", "category1": 5, "category2": 2140}
+{"id": 185609, "x": 367, "y": 312, "z": 9, "title": "Nagroda", "description": "Wojownicy, ktorzy pokonaja potezne demony moga siegnac po nagrody.", "category1": 5, "category2": 2140}
+{"id": 185610, "x": 361, "y": 312, "z": 9, "title": "Nagroda", "description": "Wojownicy, ktorzy pokonaja potezne demony moga siegnac po nagrody.", "category1": 5, "category2": 2140}
+{"id": 185611, "x": 361, "y": 306, "z": 9, "title": "Nagroda", "description": "Wojownicy, ktorzy pokonaja potezne demony moga siegnac po nagrody.", "category1": 5, "category2": 2140}

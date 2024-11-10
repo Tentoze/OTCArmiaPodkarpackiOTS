@@ -1,0 +1,2 @@
+{"id": 238233, "x": 293, "y": 153, "z": 7, "title": "!Wejscie", "description": "Jesli posiadasz 5 poziom doswiadczenia, mozesz wejsc i sprobowac swoich si.", "category1": 7, "category2": 2599}
+{"id": 238232, "x": 298, "y": 155, "z": 8, "title": "Nagroda", "description": "Odbierz swoja nagrode!", "category1": 7, "category2": 2599}

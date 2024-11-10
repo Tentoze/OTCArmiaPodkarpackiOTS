@@ -1,0 +1,6 @@
+{"id": 193, "x": 338, "y": 200, "z": 7, "title": "Doctor (Capital City)", "description": "Doktor zajmuje sie bardzo skomplikowanymi operacjami; poczynajac na zmianie pci konczac na zmianie rasy.", "category1": 1, "category2": 18}
+{"id": 192, "x": 1298, "y": 241, "z": 5, "title": "Doctor (City of Dreams)", "description": "Doktor zajmuje sie bardzo skomplikowanymi operacjami; poczynajac na zmianie pci konczac na zmianie rasy.", "category1": 1, "category2": 18}
+{"id": 185662, "x": 386, "y": 415, "z": 7, "title": "Doctor (Expgard)", "description": "Doktor zajmuje sie bardzo skomplikowanymi operacjami; poczynajac na zmianie pci konczac na zmianie rasy.", "category1": 1, "category2": 18}
+{"id": 201, "x": 1041, "y": 757, "z": 7, "title": "Punisher (Ankaros)", "description": "Punisher za spora opata moze zlikwidowac czerwona czaszke - oznake wielokrotnych morderstw. Punisher zwyky jest spacerowac po ulicach Ankaros, jego lokalizacja jest zmienna.", "category1": 1, "category2": 18}
+{"id": 190, "x": 180, "y": 166, "z": 6, "title": "Rookstayer (Rookgard)", "description": "Rookstayer za drobna opata nadaje miano mieszkanca Rookgardu.", "category1": 1, "category2": 18}
+{"id": 191, "x": 1186, "y": 272, "z": 6, "title": "Zooman (City of Dreams)", "description": "Zooman pobiera opaty za wstep do zoo.", "category1": 1, "category2": 18}

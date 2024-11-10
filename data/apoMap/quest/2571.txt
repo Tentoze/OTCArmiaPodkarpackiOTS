@@ -1,0 +1,1 @@
+{"id": 219887, "x": 534, "y": 260, "z": 7, "title": "Nagroda", "description": "Sprobuj swoich si i staw czoa przeroznym potworom czyhajacym w tym dziwnym budynku.", "category1": 5, "category2": 2571}

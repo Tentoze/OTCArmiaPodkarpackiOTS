@@ -1,0 +1,1 @@
+{"id": 185613, "x": 247, "y": 409, "z": 9, "title": "Nagroda", "description": "Po zabiciu bossa demonow mozna zabrac w nagrode potezny miecz.", "category1": 5, "category2": 2142}

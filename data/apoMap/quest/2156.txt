@@ -1,0 +1,6 @@
+{"id": 202611, "x": 129, "y": 420, "z": 7, "title": "!NPC David", "description": "Bez pomocy Davida nie rozpoczniemy questa.", "category1": 5, "category2": 2156}
+{"id": 202617, "x": 684, "y": 438, "z": 1, "title": "Finalny otarz", "description": "Tutaj nalezy zozyc ostatnia ofiare, za ktora otrzymamy wasciwa nagrode z questa.", "category1": 5, "category2": 2156}
+{"id": 202612, "x": 1060, "y": 495, "z": 5, "title": "NPC Katius", "description": "Katius w zamian za zozona ofiare podaruje nam pewien cenny przedmiot.", "category1": 5, "category2": 2156}
+{"id": 202614, "x": 417, "y": 309, "z": 7, "title": "Otarz I", "description": "", "category1": 5, "category2": 2156}
+{"id": 202615, "x": 933, "y": 432, "z": 1, "title": "Otarz II", "description": "", "category1": 5, "category2": 2156}
+{"id": 202616, "x": 497, "y": 808, "z": 1, "title": "Otarz III", "description": "", "category1": 5, "category2": 2156}

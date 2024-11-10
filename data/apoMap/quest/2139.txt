@@ -1,0 +1,2 @@
+{"id": 185606, "x": 289, "y": 388, "z": 7, "title": "Nagroda", "description": "Aby otrzymac nagrody nalezy pokonac wszystkie potwory w zamku.", "category1": 5, "category2": 2139}
+{"id": 185607, "x": 299, "y": 387, "z": 7, "title": "Nagroda", "description": "Aby otrzymac nagrody nalezy pokonac wszystkie potwory w zamku.", "category1": 5, "category2": 2139}

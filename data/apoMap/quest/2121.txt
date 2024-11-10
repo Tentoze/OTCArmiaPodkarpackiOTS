@@ -1,0 +1,1 @@
+{"id": 185596, "x": 400, "y": 382, "z": 8, "title": "Nagroda", "description": "Zielone stwory bronia cennej tarczy.", "category1": 5, "category2": 2121}

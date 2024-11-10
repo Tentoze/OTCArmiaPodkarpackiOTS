@@ -1,0 +1,2 @@
+{"id": 219932, "x": 196, "y": 196, "z": 15, "title": "!Wejscie", "description": "W tym zadaniu przyjdzie nam sie zmierzyc ze spora iloscia Mrocznych Lordow, oraz z Mroczna Ksiezniczka, ktora jest o wiele bardziej potezniejsza niz Mroczni Lordowie. Sam nie dasz rady, potrzebujesz pomocy...", "category1": 7, "category2": 2583}
+{"id": 219933, "x": 196, "y": 173, "z": 14, "title": "Nagroda", "description": "Odbierz rune, ktorej w zaden inny sposob nie da sie zdobyc na Rooku!", "category1": 7, "category2": 2583}

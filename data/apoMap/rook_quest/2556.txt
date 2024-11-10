@@ -1,0 +1,2 @@
+{"id": 219880, "x": 143, "y": 122, "z": 4, "title": "Nagroda", "description": "Aby zdobyc spodnie, nalezy pokonac trudna droge pena wrogich potworow.", "category1": 7, "category2": 2556}
+{"id": 219881, "x": 143, "y": 130, "z": 4, "title": "Nagroda", "description": "Aby zdobyc zbroje, nalezy pokonac trudna droge pena wrogich potworow.", "category1": 7, "category2": 2556}

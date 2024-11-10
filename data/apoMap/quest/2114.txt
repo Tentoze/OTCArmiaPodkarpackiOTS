@@ -1,0 +1,2 @@
+{"id": 185494, "x": 524, "y": 321, "z": 3, "title": "Nagroda", "description": "W gownej wiezy zamkowej, czekaja nagrody!", "category1": 5, "category2": 2114}
+{"id": 219890, "x": 525, "y": 321, "z": 3, "title": "Nagroda", "description": "W gownej wiezy zamkowej, czekaja nagrody!", "category1": 5, "category2": 2114}

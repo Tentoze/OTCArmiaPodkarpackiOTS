@@ -1,0 +1,2 @@
+{"id": 185483, "x": 240, "y": 295, "z": 9, "title": "!Start", "description": "Osoba, ktora pragnie wykonac OTS quest musi posiadac co najmniej 150 poziom doswiadczenia.", "category1": 5, "category2": 2109}
+{"id": 185484, "x": 365, "y": 292, "z": 10, "title": "Nagrody", "description": "Podroznik pokonawszy wszystkie przeszkody otrzyma wszystkie trzy nagrody.", "category1": 5, "category2": 2109}

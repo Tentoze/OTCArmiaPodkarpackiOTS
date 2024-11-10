@@ -1,0 +1,361 @@
+4394,Ahraak
+4191,Amazon
+4177,Ancient Scarab
+4232,Angry Bird
+4453,Angry Gargoyle
+4440,Angry Goblin
+4370,Ant
+4481,Ant 1
+4492,Ant 10
+4488,Ant 11
+4485,Ant 12
+4482,Ant 2
+4486,Ant 3
+4484,Ant 4
+4491,Ant 5
+4490,Ant 6
+4489,Ant 7
+4483,Ant 8
+4487,Ant 9
+4234,Ant Guard
+4425,Ant Queen
+4274,Ant Warrior
+4480,Antic Beast
+4416,Antic Demon
+4417,Antic Djinn
+4325,Antic Mummy
+4415,Antic Pharao
+4427,Antic Shambler
+4418,Antic Skeleton
+4229,Apocalypto
+4380,Ashmunrah
+4433,Asian Hornet
+4316,Assassin
+4419,Atopech
+4409,Baby Ant
+4275,Badger
+4262,Bally
+4284,Bandit
+4248,Banshee
+4395,Barry The Evil
+4222,Bat
+4231,Bear
+4155,Behemoth
+4302,Beholder
+4365,belhior
+4267,Black Knight
+4323,Black Sheep
+4242,Blue Butterfly
+4309,Blue Djinn
+4285,Bone Beast
+4202,Brave Witch
+4270,Bug
+4378,Burning Rotworm
+4472,Captain of Empire
+4355,Carniphila
+4337,Catherine
+4384,Cathrina
+4379,Cave Bug
+4152,Cave Rat
+4448,Cave Skeleton
+4251,Centipede
+4282,Chicken
+4345,Citus i Nixon
+4279,Cobra
+4457,Cockatoo
+4473,Colonel of Empire
+4226,Converter
+4297,Crab
+4367,Crack
+4301,Crazy Flamingo
+4288,Crocodile
+4368,Crypt Shambler
+4179,Cyclops
+4312,Dark Dwarf
+4219,Dark Lord
+4259,Dark Monk
+4422,Dark Princess
+4374,Deathslicer
+4264,Deer
+4438,Demented Dwarf
+4190,Demodras
+4185,Demon
+4133,demon lord
+4319,demon lord rooker
+4320,Demon Rooker
+4166,Demon Skeleton
+4369,Demonic Sheep Hunter
+4441,Destructor
+4138,Devil Atom
+4308,Dipthrah
+4272,Dog
+4396,Domad
+4420,Doom Caster
+4328,Double
+4311,Dracula
+4182,Dragon
+4159,Dragon Lord
+4266,Dwarf
+4343,Dwarf aka Erni
+4349,Dwarf Archer
+4412,Dwarf Assassin
+4249,Dwarf Executioner
+4299,Dwarf Fighter
+4292,Dwarf Flamemaster
+4336,Dwarf Geomancer
+4250,Dwarf Gladiator
+4314,Dwarf Guard
+4357,Dwarf Mage
+4265,Dwarf Soldier
+4350,Dwarf Warrior
+4353,dwarfols
+4212,Dworc Fleshhunter
+4244,Dworc Venomsniper
+4213,Dworc Voodoomaster
+4298,Dziub Dziub
+4432,Ebola Bat
+4361,Efreet
+4150,Elder Beholder
+4449,Elder Demon
+4339,Elephant
+4186,Elf
+4180,Elf Arcanist
+4173,Elf Archer
+4175,Elf Assassin
+4174,Elf Executioner
+4172,Elf Fighter
+4169,Elf Flamemaster
+4170,Elf Gladiator
+4171,Elf Mage
+4215,Elf Scout
+4287,Elf Soldier
+4216,elfon
+4397,Enav
+4443,Energy Elemental 1
+4444,Energy Elemental 2
+4442,Energy Elemental 3
+4454,Energy Elemental 4
+4460,Ercalifra
+4305,Event Point
+4477,Fallen King
+4458,Fallen Mage
+4467,Fallen Queen
+4294,Fender
+4303,Fiber Flower
+4437,Fiery Mage
+4421,Fire
+4340,Fire Devil
+4247,Fire Elemental
+4445,Fire Elemental 1
+4447,Fire Elemental 2
+4446,Fire Elemental 3
+4455,Fire Elemental 4
+4332,Fire Woman
+4410,Flame
+4257,Flamingo
+4260,Flubber
+4372,Frost Troll
+4335,Gargoyle
+4258,Gazer
+4470,General of Empire
+4411,General Skeleton
+4269,Ghost
+4268,Ghoul
+4293,Giant Leaf
+4136,Giant serpent
+4149,Giant Spider
+4461,Gilistice
+4224,Glacius
+4408,Glimmer
+4164,Goblin
+4321,Gorilla
+4310,Green Djinn
+4168,Grorlam
+4413,Hardened Skeleton
+4156,Hero
+4178,Hunter
+4290,Hyaena
+4161,Hydra
+4143,hydramus
+4373,Ice Golem
+4463,Idocious
+4423,Igneous Beast
+4405,Immortal Pirate
+4436,Ironmaster
+4220,Jungleman
+4338,Kama Koks
+4398,Kaos
+4207,Kongra
+4359,KS1
+4393,KS10
+4358,KS11
+4385,KS2
+4386,KS3
+4387,KS4
+4390,KS5
+4391,KS6
+4388,KS7
+4392,KS8
+4389,KS9
+4193,Larva
+4399,Layo The Shooter
+4348,Lich
+4424,Licho
+4469,Lieutenant of Empire
+4246,Lion
+4333,Lizard Predator
+4160,Lizard Sentinel
+4142,Lizard Snakecharmer
+4141,Lizard Templar
+4151,Lucky Rat
+4211,Mad Dog
+4381,Mahrdis
+4278,Marid
+4183,Master Atom
+4206,Merlkin
+4210,Mesh
+4371,Metallurgist
+4478,Mini Minos
+4329,Minion
+4327,Minos
+4158,Minotaur
+4201,Minotaur Archer
+4235,Minotaur Guard
+4217,Minotaur Mage
+4352,Mistic Scarab
+4256,Monk
+4351,Monster Skeleton
+4376,Morguthis
+4466,Mr Da
+4295,Mudworm
+4291,Mummy
+4253,murius
+4315,Mutated Ant
+4434,Mutated Mummy
+4356,Myrmidon
+4400,Nav
+4280,Necromancer
+4479,Necropharus
+4366,Nil
+4330,Omen
+4223,Omniba
+4375,Omruc
+4162,Orc
+4165,Orc Berserker
+4144,Orc Leader
+4189,Orc Rider
+4147,Orc Shaman
+4146,Orc Spearman
+4145,Orc Warlord
+4187,Orc Warrior
+4252,orcenas
+4134,Orshabaal
+4475,Ots Guard
+4476,Ots Guard 2
+4468,Ots Guard 3
+4227,ots kid
+4148,ots king
+4214,Ots Queen
+4346,Owca aka Franeq
+4289,Panda
+4276,Parrot
+4326,Pathfinder
+4342,Patrys aka Sciexu
+4452,Perfect Apocalypto
+4225,Perfector
+4324,Pig
+4286,Pink Butterfly
+4263,Pirate Corsair
+4403,Pirate Ghost
+4404,Pirate Officer
+4306,Pirate Pearlmaster
+4307,Pirate Recruit
+4230,Pirate Sabreur
+4429,Pirate Skeleton
+4406,Pirate Warmaster
+4347,Pitekk i Zareks
+4360,Pitiless
+4196,Poison Spider
+4281,Polar Bear
+4465,Priest of Darkness
+4237,Priestess
+4428,Priestess of Death
+4271,Rabbit
+4383,Rahemos
+4181,Rat
+4241,Red Butterfly
+4135,Red Dragon
+4317,Renegade
+4364,Returned
+4277,Rotworm
+4439,Rune Thrower
+4341,Sasha
+4243,Scarab
+4318,Scorpion
+4474,Sergeant of Empire
+4471,Sergeant of Empire 2
+4192,Serpent Spawn
+4464,Serpentarion
+4322,Sheep
+4205,Sibang
+4261,Skeleton
+4137,Skeleton Lord
+4154,Skeleton Mage
+4208,Skeleton Sniper
+4153,Skeleton Warrior
+4233,Skunk
+4184,Slime
+4283,Smuggler
+4197,Snake
+4195,Spider
+4221,Spit Nettle
+4132,Stalker
+4167,Stone Golem
+4456,Stony
+4459,Sup
+4296,Swamp Golem
+4313,Swamp Slime
+4163,Swamp Troll
+4435,Swamper
+4344,Swinka aka pianka
+4240,Tarantula
+4255,Terror Bird
+4377,Thalas
+4354,The Evil Eye
+4209,The Old Widow
+4362,Thing
+4239,Tiger
+4334,Tiger King
+4363,Tiny
+4304,Toxic Plant
+4401,Traffora
+4200,trainer
+4203,Trainer Shooter
+4194,Troll
+4331,Undead Mastah
+4218,Urge
+4188,Valkyrie
+4139,Vampire
+4414,Vampire Hunter
+4140,Vampire Lord
+4382,Vashresamun
+4273,War Wolf
+4228,Ward
+4157,Warlock
+4402,Warmaster
+4198,Wasp
+4430,Water Elemental 1
+4431,Water Elemental 2
+4450,Water Elemental 3
+4451,Water Elemental 4
+4407,Water Magician
+4236,Wild Warrior
+4254,Winter Wolf
+4176,Wise Man
+4245,Witch
+4199,Wolf
+4462,Xpial
+4238,Yeti
+4204,Zombi
+4426,Zombi Rook
+4300,Zombie

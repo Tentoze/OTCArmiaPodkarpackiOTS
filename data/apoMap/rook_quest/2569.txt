@@ -1,0 +1,2 @@
+{"id": 219911, "x": 128, "y": 139, "z": 11, "title": "!Wejscie", "description": "Quest przeznaczony dla doswiadczonych wojownikow. Nagroda jest bardzo dobrze strzezona.", "category1": 7, "category2": 2569}
+{"id": 219908, "x": 114, "y": 146, "z": 10, "title": "Nagroda", "description": "Quest do prostych nie nalezy, ale nagroda jest tego warta!", "category1": 7, "category2": 2569}

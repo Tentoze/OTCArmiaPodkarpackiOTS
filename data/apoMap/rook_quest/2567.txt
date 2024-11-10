@@ -1,0 +1,2 @@
+{"id": 219920, "x": 295, "y": 93, "z": 8, "title": "!Wejscie", "description": "Po drodze przyjdzie Ci sie zmierzyc z szamanem Orc&#039;ow i Minataurow. Ale na tym nie koniec. To zaledwie poczatek...", "category1": 7, "category2": 2567}
+{"id": 219921, "x": 296, "y": 63, "z": 10, "title": "Nagroda", "description": "Odbierz nagrode za poniesiony trud.", "category1": 7, "category2": 2567}

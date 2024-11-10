@@ -1,0 +1,7 @@
+{"id": 185646, "x": 1291, "y": 420, "z": 7, "title": "!Start", "description": "Nasza przygode zaczynamy tutaj. Nalezy isc ta droga, az dojdziemy do krat maej piramidy, ktora znajduje sie na samym szczycie tej wielkiej budowli.", "category1": 5, "category2": 2151}
+{"id": 219940, "x": 1263, "y": 443, "z": 5, "title": "Drzwi", "description": "Jesli chcemy je otworzyc, musimy miec om. Inaczej nie uda nam sie wejsc.", "category1": 5, "category2": 2151}
+{"id": 219938, "x": 1267, "y": 447, "z": 1, "title": "Dzwignia 1", "description": "Aby dostac sie do srodka, musimy przeciagnac dzwignie za pomoca mioty. Wtedy kraty znikna i bedziemy mogli wejsc.", "category1": 5, "category2": 2151}
+{"id": 219939, "x": 1265, "y": 444, "z": 4, "title": "Dzwignia 2", "description": "Aby otworzyc drzwi obok, nalezy przeciagnac dzwignie za pomoca mioty.", "category1": 5, "category2": 2151}
+{"id": 219942, "x": 1263, "y": 444, "z": 6, "title": "Dzwignia 3", "description": "Po przeciagnieciu tej dzwigni, bedziemy juz tylko o krok od zdobycia nagrody. Jednak nie bedzie atwo...", "category1": 5, "category2": 2151}
+{"id": 185647, "x": 1275, "y": 441, "z": 6, "title": "Nagroda", "description": "Poniesione trudy rekompensuje Ponace Serce - najlepsza tarcza na serwerze.", "category1": 5, "category2": 2151}
+{"id": 219941, "x": 1271, "y": 441, "z": 5, "title": "Piec", "description": "Zapal pod piecem, zrobio sie zimno...", "category1": 5, "category2": 2151}

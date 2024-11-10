@@ -1,0 +1,1 @@
+{"id": 219894, "x": 60, "y": 433, "z": 10, "title": "Nagroda", "description": "Pokonaj bestie i zdobadz cudowny pierscien, ktory po zaozeniu zagwarantuje Ci lepszy loot z potworow!", "category1": 5, "category2": 2575}

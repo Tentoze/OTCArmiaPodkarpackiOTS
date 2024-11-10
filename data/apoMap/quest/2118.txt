@@ -1,0 +1,2 @@
+{"id": 185573, "x": 527, "y": 403, "z": 8, "title": "Nagroda", "description": "Na wojownikow, ktorzy pokonaja szefa kamiennych stworow czeka nagroda.", "category1": 5, "category2": 2118}
+{"id": 185574, "x": 525, "y": 403, "z": 8, "title": "Nagroda", "description": "Na wojownikow, ktorzy pokonaja szefa kamiennych stworow czeka nagroda.", "category1": 5, "category2": 2118}

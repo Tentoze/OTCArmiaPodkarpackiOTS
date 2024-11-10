@@ -1,0 +1,58 @@
+2582,1 cc Quest
+3042,Ahmed Quest
+2816,Allo Quest
+2567,Amulet of Loss Quest
+2811,Annihilator II Rook
+2600,Annihilator Rook
+2818,Arena Rook
+3044,Arena Rook II
+2557,Bandit's Quest
+2820,Black Knight Pawn II Quest
+2819,Black Knight Pawn Quest
+2813,Black Knight Quest
+2563,Boots of Haste Quest
+2599,Carlin Sword Quest
+2564,Crown Armor Quest
+2583,Dark Princess Quest
+2552,Dark Shield Quest
+2821,Demon Set Quest
+2809,Dragon Hammer Quest
+2570,DSM/SL Quest
+2558,Dwarf's Quest
+2559,Dwarfish Axe Quest
+3043,Excellent Quest
+2565,Fire Axe Quest
+2814,General Grab Quest
+2554,Goblin Quest
+2569,Golden Armor Quest
+2825,Green Quest
+3041,Halloween Quest
+2827,Helpful Quest
+2810,Hot Banshee Quest
+2807,IH Quest
+2574,Key of Spider Quest
+2808,Knight Axe Quest
+2815,Might Ring Quest
+3045,Nan'Tsao Quest
+3046,Nan'Tsao Quest II
+2568,Necro Quest
+2562,Noble Armor Quest
+2578,Parchment Quest
+2826,Piggy Quest
+2556,Plate Set Quest
+2560,Poison Quest
+3048,Rabbit Present Quest
+3039,Ramzes Helmet Quest
+2585,Rat Quest
+2817,Rook Quest
+2555,Rotworms Quest
+2551,Short Sword Quest
+3047,Soul Quest
+2566,Steel Boots Quest
+2598,Stuart's Quest
+2601,Studded Shield Quest
+2553,Time Ring Quest
+3040,Tropicano Quest
+2829,UH Quest
+2592,Vampire Quest
+2561,Vampire Shield Quest

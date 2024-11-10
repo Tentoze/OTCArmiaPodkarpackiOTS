@@ -1,0 +1,2 @@
+{"id": 219949, "x": 403, "y": 375, "z": 11, "title": "!Wejscie", "description": "Jesli chcesz wykonac to zadanie, musisz posiadac minimum 150 poziom doswiadczenia.", "category1": 5, "category2": 2588}
+{"id": 219950, "x": 403, "y": 320, "z": 11, "title": "Nagroda", "description": "Jesli jestes Druidem lub Magiem, ta rozdzka z pewnoscia Ci sie przyda.", "category1": 5, "category2": 2588}

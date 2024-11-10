@@ -1,0 +1,2 @@
+{"id": 185491, "x": 503, "y": 251, "z": 8, "title": "Nagroda", "description": "Nagroda za poniesiony trud sa cenne klejnoty.", "category1": 5, "category2": 2112}
+{"id": 185492, "x": 492, "y": 260, "z": 6, "title": "Nagroda", "description": "Nagroda za poniesiony trud sa cenne klejnoty.", "category1": 5, "category2": 2112}

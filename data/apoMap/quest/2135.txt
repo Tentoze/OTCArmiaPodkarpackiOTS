@@ -1,0 +1,1 @@
+{"id": 185603, "x": 417, "y": 273, "z": 8, "title": "Nagroda", "description": "Aby zdobyc stalowe buty nalezy pokonac wszystkie potwory.", "category1": 5, "category2": 2135}

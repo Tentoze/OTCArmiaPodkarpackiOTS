@@ -1,0 +1,2 @@
+{"id": 185497, "x": 247, "y": 277, "z": 8, "title": "Nagroda", "description": "Czarni rycerze i nie tylko, bronia dostepu do zbroi.", "category1": 5, "category2": 2117}
+{"id": 219889, "x": 248, "y": 277, "z": 8, "title": "Nagroda", "description": "Czarni rycerze i nie tylko, bronia dostepu do spodni.", "category1": 5, "category2": 2117}

@@ -1,0 +1,15 @@
+{"id": 185621, "x": 693, "y": 665, "z": 4, "title": "!NPC Rabin", "description": "Rabin moze nam pomoc w wykonaniu tego questa.", "category1": 5, "category2": 2148}
+{"id": 185631, "x": 660, "y": 774, "z": 9, "title": "Dokument", "description": "Dokument potrzebny, aby okazac go Straznikowi.", "category1": 5, "category2": 2148}
+{"id": 185623, "x": 582, "y": 728, "z": 10, "title": "Jaja Hydr", "description": "Musimy zabrac z gniazda jajo Hydry.", "category1": 5, "category2": 2148}
+{"id": 185632, "x": 693, "y": 662, "z": 7, "title": "Labirynt", "description": "Wejscie do labiryntu.", "category1": 5, "category2": 2148}
+{"id": 185627, "x": 557, "y": 843, "z": 8, "title": "NPC Cobriana", "description": "Cobriana niewatpliwie posiada informacje, ktore sa niezbedne do wykonania questa.", "category1": 5, "category2": 2148}
+{"id": 185629, "x": 648, "y": 802, "z": 6, "title": "NPC Monkan", "description": "Ta mapa moze nam pomoc w wykonaniu zadania.", "category1": 5, "category2": 2148}
+{"id": 185628, "x": 377, "y": 264, "z": 7, "title": "NPC Pirat Jack", "description": "U tego pirata mozemy dostac jeden z przedmiotow, ktory jest niezbedny do wykonania zadania.", "category1": 5, "category2": 2148}
+{"id": 185626, "x": 660, "y": 806, "z": 7, "title": "NPC Snaken", "description": "Snaken niewatpliwie posiada informacje, ktore sa niezbedne do wykonania questa.", "category1": 5, "category2": 2148}
+{"id": 185633, "x": 669, "y": 654, "z": 8, "title": "NPC Straznik", "description": "Po okazaniu odpowiedniego dokumentu straznikowi, moze on nas przepuscic do tajemnych korytarzy labiryntu.", "category1": 5, "category2": 2148}
+{"id": 185635, "x": 476, "y": 765, "z": 7, "title": "NPC Szaleniec", "description": "W zamian za oddana przysuge otrzymamy mozliwosc dostepu do tajemnych respow.", "category1": 5, "category2": 2148}
+{"id": 185622, "x": 566, "y": 713, "z": 7, "title": "Osada Hydr", "description": "Aby zdobyc jeden z wymaganych przedmiotow trzeba udac sie do osady Hydr.", "category1": 5, "category2": 2148}
+{"id": 185624, "x": 505, "y": 650, "z": 7, "title": "Osada jaszczurow", "description": "Aby zdobyc jeden z wymaganych przedmiotow trzeba udac sie do osady jaszczurow.", "category1": 5, "category2": 2148}
+{"id": 185634, "x": 618, "y": 728, "z": 8, "title": "Otarz", "description": "", "category1": 5, "category2": 2148}
+{"id": 185625, "x": 540, "y": 623, "z": 8, "title": "Sentinel Shield", "description": "", "category1": 5, "category2": 2148}
+{"id": 185630, "x": 660, "y": 773, "z": 6, "title": "Teleporty", "description": "Ostroznie wybieraj teleporty! Jesli zle trafisz, nie w ten teleport - ZGINIESZ!", "category1": 5, "category2": 2148}

@@ -1,0 +1,1 @@
+{"id": 390043, "x": 341, "y": 276, "z": 7, "title": "", "description": "", "category1": 2, "category2": 4343}

@@ -1,0 +1,2 @@
+{"id": 219947, "x": 1165, "y": 617, "z": 8, "title": "!Wejscie", "description": "Misja raczej prosta. Wejdz, zabij wszystkie potwory po drodze i odbierz nagrody.", "category1": 5, "category2": 2587}
+{"id": 219948, "x": 1258, "y": 642, "z": 9, "title": "Nagrody", "description": "Odbierz, co sie Tobie nalezy!", "category1": 5, "category2": 2587}

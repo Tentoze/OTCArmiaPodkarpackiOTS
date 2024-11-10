@@ -1,0 +1,1 @@
+{"id": 219893, "x": 41, "y": 45, "z": 11, "title": "Nagroda", "description": "Bardzo niebezpieczny quest, nawet dla bardziej doswiadczonych graczy! Zmierz sie z ogromnymi Skarabeuszami i zdobadz nagrode!", "category1": 7, "category2": 2574}

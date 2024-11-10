@@ -1,0 +1,2 @@
+{"id": 185655, "x": 1090, "y": 561, "z": 7, "title": "!Start", "description": "Aby dostac sie do sali z Omenem, musimy zanurzyc sie w czarnej mazi...", "category1": 5, "category2": 2157}
+{"id": 185656, "x": 1095, "y": 570, "z": 8, "title": "Nagroda", "description": "Za pokonanie jednego z najpotezniejszych potworow na serwerze, otrzymujemy bardzo cenny przedmiot.", "category1": 5, "category2": 2157}

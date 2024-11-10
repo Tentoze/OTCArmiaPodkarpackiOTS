@@ -1,0 +1,4 @@
+2158,Miasta
+2160,Tereny
+2161,Wioski
+2159,Wszystkie

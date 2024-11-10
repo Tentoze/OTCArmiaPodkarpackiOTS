@@ -1,0 +1,1 @@
+{"id": 219875, "x": 270, "y": 146, "z": 9, "title": "Nagroda", "description": "W podziemiach Wyspy Poczatkujacych wszelkiego rodzaju szczury bronia miecza, ktory z pewnoscia przyda sie poczatkujacemu podroznikowi.", "category1": 7, "category2": 2551}

@@ -1,0 +1,1 @@
+{"id": 185495, "x": 558, "y": 305, "z": 4, "title": "Nagroda", "description": "W siedzibie elfow ukryto mot. Aby go zdobyc nalezy pokonac wszystkich przedstawicieli elfiej rasy.", "category1": 5, "category2": 2115}

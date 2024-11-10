@@ -1,0 +1,1 @@
+{"id": 219883, "x": 261, "y": 83, "z": 9, "title": "Nagrody", "description": "W zamian za pokonanie kopalnianych stworow mozna wziac skarby, ktorych bronia.", "category1": 7, "category2": 2558}

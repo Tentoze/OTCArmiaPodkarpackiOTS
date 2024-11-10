@@ -1,0 +1,1 @@
+{"id": 219904, "x": 156, "y": 76, "z": 6, "title": "Nagroda", "description": "Aby zdobyc nagrode, nalezy podazac droga, ktora jest pilnowana przez waleczne kobiety, zwane Amazonkami.", "category1": 7, "category2": 2562}

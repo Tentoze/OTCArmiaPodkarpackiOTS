@@ -1,0 +1,2 @@
+{"id": 185591, "x": 369, "y": 480, "z": 8, "title": "Nagroda", "description": "Potezny stwor broni dostepu do skarbow.", "category1": 5, "category2": 2138}
+{"id": 185592, "x": 367, "y": 480, "z": 8, "title": "Nagroda", "description": "Potezny stwor broni dostepu do skarbow.", "category1": 5, "category2": 2138}

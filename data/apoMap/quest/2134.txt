@@ -1,0 +1,1 @@
+{"id": 185602, "x": 299, "y": 263, "z": 10, "title": "Nagroda", "description": "Wojownicy, ktorym niestraszne potyczki z duza iloscia potworow moga podjac probe zdobycia pewnego miecza.", "category1": 5, "category2": 2134}

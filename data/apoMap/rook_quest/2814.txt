@@ -1,0 +1,1 @@
+{"id": 238240, "x": 262, "y": 157, "z": 7, "title": "NPC General Grab", "description": "Genera Grab potrzebuje zapasow dla swojego wojska. Pomoz mu je zebrac, a odwdzieczy Ci sie punktami doswiadczenia.", "category1": 7, "category2": 2814}

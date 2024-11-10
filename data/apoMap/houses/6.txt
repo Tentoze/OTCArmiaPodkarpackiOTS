@@ -1,0 +1,340 @@
+{"id": 347, "x": 989, "y": 711, "z": 7, "title": "Ankaros I", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 349, "x": 1006, "y": 711, "z": 7, "title": "Ankaros II", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 348, "x": 997, "y": 714, "z": 6, "title": "Ankaros III", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 350, "x": 1005, "y": 732, "z": 7, "title": "Ankaros IV", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 351, "x": 1038, "y": 710, "z": 7, "title": "Ankaros V", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 352, "x": 1079, "y": 707, "z": 7, "title": "Ankaros VI", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 353, "x": 1084, "y": 707, "z": 7, "title": "Ankaros VII", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 360, "x": 1015, "y": 792, "z": 7, "title": "Archeo I", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 361, "x": 1022, "y": 792, "z": 7, "title": "Archeo II", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 362, "x": 1029, "y": 792, "z": 7, "title": "Archeo III", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 363, "x": 1036, "y": 792, "z": 7, "title": "Archeo IV", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 368, "x": 1071, "y": 792, "z": 7, "title": "Archeo IX", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 364, "x": 1043, "y": 792, "z": 7, "title": "Archeo V", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 365, "x": 1050, "y": 792, "z": 7, "title": "Archeo VI", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 366, "x": 1057, "y": 792, "z": 7, "title": "Archeo VII", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 367, "x": 1064, "y": 792, "z": 7, "title": "Archeo VIII", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 369, "x": 1078, "y": 792, "z": 7, "title": "Archeo X", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 370, "x": 1085, "y": 792, "z": 7, "title": "Archeo XI", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 503, "x": 1343, "y": 231, "z": 6, "title": "Arena I", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 504, "x": 1341, "y": 240, "z": 6, "title": "Arena II", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 505, "x": 1341, "y": 245, "z": 6, "title": "Arena III", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 506, "x": 1345, "y": 240, "z": 5, "title": "Arena IV", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 507, "x": 1345, "y": 245, "z": 5, "title": "Arena V", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 215, "x": 394, "y": 126, "z": 7, "title": "Atlantic Street", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 216, "x": 390, "y": 124, "z": 7, "title": "Atlantic Street II", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 217, "x": 388, "y": 125, "z": 7, "title": "Atlantic Street III", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 218, "x": 385, "y": 125, "z": 6, "title": "Atlantic Street IV", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 219, "x": 386, "y": 124, "z": 6, "title": "Atlantic Street V", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 405, "x": 333, "y": 259, "z": 10, "title": "Baldurs Gate I", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 406, "x": 333, "y": 262, "z": 10, "title": "Baldurs Gate II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 407, "x": 348, "y": 276, "z": 10, "title": "Baldurs Gate III", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 408, "x": 351, "y": 276, "z": 10, "title": "Baldurs Gate IV", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 409, "x": 365, "y": 262, "z": 10, "title": "Baldurs Gate V", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 410, "x": 365, "y": 259, "z": 10, "title": "Baldurs Gate VI", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 411, "x": 351, "y": 244, "z": 10, "title": "Baldurs Gate VII", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 412, "x": 348, "y": 244, "z": 10, "title": "Baldurs Gate VIII", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 469, "x": 381, "y": 305, "z": 7, "title": "Bamboo Camp I", "description": "Bamboo Camp", "category1": 3, "category2": 6}
+{"id": 471, "x": 371, "y": 302, "z": 7, "title": "Bamboo Camp II", "description": "Bamboo Camp", "category1": 3, "category2": 6}
+{"id": 470, "x": 376, "y": 297, "z": 7, "title": "Bamboo Camp III", "description": "Bamboo Camp", "category1": 3, "category2": 6}
+{"id": 472, "x": 385, "y": 297, "z": 7, "title": "Bamboo Camp IV", "description": "Bamboo Camp", "category1": 3, "category2": 6}
+{"id": 476, "x": 385, "y": 311, "z": 6, "title": "Bamboo Camp IX", "description": "Bamboo Camp", "category1": 3, "category2": 6}
+{"id": 473, "x": 387, "y": 301, "z": 7, "title": "Bamboo Camp V", "description": "Bamboo Camp", "category1": 3, "category2": 6}
+{"id": 474, "x": 385, "y": 307, "z": 7, "title": "Bamboo Camp VI", "description": "Bamboo Camp", "category1": 3, "category2": 6}
+{"id": 475, "x": 396, "y": 306, "z": 7, "title": "Bamboo Camp VII", "description": "Bamboo Camp", "category1": 3, "category2": 6}
+{"id": 477, "x": 354, "y": 309, "z": 7, "title": "Bamboo Camp VIII", "description": "Bamboo Camp", "category1": 3, "category2": 6}
+{"id": 481, "x": 1189, "y": 210, "z": 6, "title": "Big Tree I", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 482, "x": 1190, "y": 190, "z": 6, "title": "Big Tree II", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 225, "x": 684, "y": 514, "z": 5, "title": "Canyon Flat I", "description": "Canyon of Damned", "category1": 3, "category2": 6}
+{"id": 226, "x": 682, "y": 508, "z": 5, "title": "Canyon Flat II", "description": "Canyon of Damned", "category1": 3, "category2": 6}
+{"id": 227, "x": 682, "y": 502, "z": 5, "title": "Canyon Flat III", "description": "Canyon of Damned", "category1": 3, "category2": 6}
+{"id": 228, "x": 677, "y": 492, "z": 4, "title": "Canyon Flat IV", "description": "Canyon of Damned", "category1": 3, "category2": 6}
+{"id": 206, "x": 418, "y": 253, "z": 7, "title": "City House", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 397, "x": 331, "y": 430, "z": 7, "title": "Clan Hall I", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 399, "x": 332, "y": 434, "z": 7, "title": "Clan Hall II", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 398, "x": 326, "y": 430, "z": 7, "title": "Clan Hall III", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 400, "x": 325, "y": 434, "z": 7, "title": "Clan Hall IV", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 402, "x": 326, "y": 436, "z": 6, "title": "Clan Hall VI", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 404, "x": 332, "y": 436, "z": 6, "title": "Clan Hall VIII", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 488, "x": 1223, "y": 200, "z": 6, "title": "Cod Street I", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 489, "x": 1223, "y": 204, "z": 6, "title": "Cod Street II", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 490, "x": 1238, "y": 205, "z": 6, "title": "Cod Street III", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 492, "x": 1243, "y": 205, "z": 6, "title": "Cod Street IV", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 491, "x": 1238, "y": 209, "z": 6, "title": "Cod Street V", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 493, "x": 1243, "y": 209, "z": 6, "title": "Cod Street VI", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 494, "x": 1260, "y": 197, "z": 6, "title": "Cod Street VII", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 495, "x": 1289, "y": 198, "z": 6, "title": "Cod Street VIII", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 483, "x": 1165, "y": 261, "z": 7, "title": "Cod West GH", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 509, "x": 1228, "y": 273, "z": 6, "title": "Codway I", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 510, "x": 1248, "y": 274, "z": 6, "title": "Codway II", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 511, "x": 1250, "y": 274, "z": 6, "title": "Codway III", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 512, "x": 1253, "y": 274, "z": 6, "title": "Codway IV", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 513, "x": 1229, "y": 292, "z": 7, "title": "Codway V", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 514, "x": 1241, "y": 286, "z": 7, "title": "Codway VI", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 288, "x": 236, "y": 565, "z": 7, "title": "Darkness", "description": "Darkness Island", "category1": 3, "category2": 6}
+{"id": 450, "x": 414, "y": 277, "z": 7, "title": "Desert Street I", "description": "Desert", "category1": 3, "category2": 6}
+{"id": 451, "x": 412, "y": 276, "z": 6, "title": "Desert Street IV", "description": "Desert", "category1": 3, "category2": 6}
+{"id": 452, "x": 405, "y": 277, "z": 6, "title": "Desert Street VI", "description": "Desert", "category1": 3, "category2": 6}
+{"id": 208, "x": 388, "y": 155, "z": 7, "title": "Evul Street", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 258, "x": 333, "y": 450, "z": 7, "title": "ExpStreet I", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 259, "x": 326, "y": 450, "z": 7, "title": "ExpStreet II", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 260, "x": 326, "y": 469, "z": 7, "title": "ExpStreet III", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 261, "x": 333, "y": 469, "z": 7, "title": "ExpStreet IV", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 266, "x": 406, "y": 491, "z": 7, "title": "ExpStreet IX", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 262, "x": 380, "y": 491, "z": 7, "title": "ExpStreet V", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 263, "x": 373, "y": 491, "z": 7, "title": "ExpStreet VI", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 264, "x": 373, "y": 510, "z": 7, "title": "ExpStreet VII", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 265, "x": 380, "y": 510, "z": 7, "title": "ExpStreet VIII", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 267, "x": 399, "y": 491, "z": 7, "title": "ExpStreet X", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 268, "x": 399, "y": 510, "z": 7, "title": "ExpStreet XI", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 269, "x": 406, "y": 510, "z": 7, "title": "ExpStreet XII", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 270, "x": 152, "y": 592, "z": 6, "title": "Flying Street", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 271, "x": 164, "y": 583, "z": 6, "title": "Flying Street I", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 272, "x": 164, "y": 577, "z": 6, "title": "Flying Street II", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 273, "x": 135, "y": 552, "z": 6, "title": "Flying Street III", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 274, "x": 140, "y": 552, "z": 6, "title": "Flying Street IV", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 275, "x": 140, "y": 566, "z": 6, "title": "Flying Street V", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 276, "x": 155, "y": 561, "z": 6, "title": "Flying Street VI", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 223, "x": 329, "y": 220, "z": 6, "title": "Gate Street", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 221, "x": 329, "y": 210, "z": 6, "title": "Gate Street I", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 222, "x": 314, "y": 208, "z": 6, "title": "Gate Street II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 224, "x": 314, "y": 214, "z": 7, "title": "Gate Street III", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 185666, "x": 290, "y": 515, "z": 7, "title": "Git House", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 429, "x": 340, "y": 233, "z": 7, "title": "Great Street I", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 430, "x": 348, "y": 233, "z": 7, "title": "Great Street II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 431, "x": 357, "y": 234, "z": 7, "title": "Great Street III", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 432, "x": 367, "y": 234, "z": 7, "title": "Great Street IV", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 441, "x": 378, "y": 236, "z": 7, "title": "Green Street I", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 443, "x": 380, "y": 233, "z": 7, "title": "Green Street II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 442, "x": 376, "y": 233, "z": 7, "title": "Green Street III", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 444, "x": 382, "y": 243, "z": 7, "title": "Green Street V", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 413, "x": 376, "y": 236, "z": 8, "title": "Ground Street", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 414, "x": 387, "y": 236, "z": 8, "title": "Ground Street I", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 415, "x": 384, "y": 239, "z": 8, "title": "Ground Street II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 416, "x": 389, "y": 239, "z": 8, "title": "Ground Street III", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 417, "x": 394, "y": 239, "z": 8, "title": "Ground Street IV", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 422, "x": 403, "y": 227, "z": 9, "title": "Ground Street IX", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 418, "x": 399, "y": 239, "z": 8, "title": "Ground Street V", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 419, "x": 374, "y": 232, "z": 9, "title": "Ground Street VI", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 420, "x": 379, "y": 232, "z": 9, "title": "Ground Street VII", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 421, "x": 384, "y": 232, "z": 9, "title": "Ground Street VIII", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 423, "x": 400, "y": 236, "z": 9, "title": "Ground Street XI", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 517, "x": 1335, "y": 257, "z": 7, "title": "Hidden Street I", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 518, "x": 1337, "y": 267, "z": 7, "title": "Hidden Street II", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 207, "x": 332, "y": 341, "z": 7, "title": "House of POH", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 231, "x": 453, "y": 224, "z": 7, "title": "Ice House", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 484, "x": 1210, "y": 233, "z": 7, "title": "Interior Depo I", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 486, "x": 1210, "y": 226, "z": 7, "title": "Interior Depo II", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 485, "x": 1213, "y": 229, "z": 7, "title": "Interior Depo III", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 230, "x": 324, "y": 237, "z": 6, "title": "Kanciapa nad Redakcja", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 210, "x": 981, "y": 402, "z": 7, "title": "Kings Street", "description": "Magic Island", "category1": 3, "category2": 6}
+{"id": 468, "x": 315, "y": 284, "z": 7, "title": "Lane Street", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 466, "x": 297, "y": 285, "z": 7, "title": "Lane Street II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 467, "x": 294, "y": 279, "z": 6, "title": "Lane Street III", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 465, "x": 287, "y": 286, "z": 7, "title": "Lane Street IV", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 304, "x": 362, "y": 140, "z": 7, "title": "Main Street I", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 305, "x": 369, "y": 140, "z": 7, "title": "Main Street II", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 306, "x": 382, "y": 141, "z": 7, "title": "Main Street III", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 426, "x": 378, "y": 450, "z": 7, "title": "Mana Street I", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 427, "x": 377, "y": 451, "z": 6, "title": "Mana Street II", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 428, "x": 364, "y": 454, "z": 6, "title": "Mana Street III", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 487, "x": 1191, "y": 258, "z": 7, "title": "Midway", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 185667, "x": 294, "y": 527, "z": 6, "title": "Mini One", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 211, "x": 228, "y": 239, "z": 6, "title": "Monumental Castle", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 508, "x": 1272, "y": 98, "z": 6, "title": "Mount of Fire", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 209, "x": 1083, "y": 812, "z": 7, "title": "Nice House", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 461, "x": 295, "y": 269, "z": 7, "title": "Nook Street", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 460, "x": 294, "y": 266, "z": 7, "title": "Nook Street II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 459, "x": 294, "y": 262, "z": 7, "title": "Nook Street III", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 462, "x": 286, "y": 261, "z": 7, "title": "Nook Street IV", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 463, "x": 282, "y": 272, "z": 7, "title": "Nook Street V", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 464, "x": 283, "y": 281, "z": 7, "title": "Nook Street VI", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 335, "x": 356, "y": 203, "z": 7, "title": "North Camp I", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 337, "x": 356, "y": 214, "z": 7, "title": "North Camp II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 336, "x": 369, "y": 203, "z": 7, "title": "North Camp III", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 338, "x": 369, "y": 214, "z": 7, "title": "North Camp IV", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 341, "x": 344, "y": 224, "z": 7, "title": "North Camp V", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 340, "x": 352, "y": 224, "z": 7, "title": "North Camp VI", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 339, "x": 374, "y": 224, "z": 7, "title": "North Camp VII", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 342, "x": 384, "y": 214, "z": 7, "title": "North Camp VIII", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 344, "x": 349, "y": 271, "z": 7, "title": "Park Street I", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 345, "x": 355, "y": 271, "z": 7, "title": "Park Street II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 346, "x": 376, "y": 273, "z": 7, "title": "Park Street III", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 238189, "x": 371, "y": 287, "z": 7, "title": "Park Street IV", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 445, "x": 376, "y": 257, "z": 7, "title": "Pirate Street", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 446, "x": 380, "y": 267, "z": 6, "title": "Pirate Street II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 447, "x": 348, "y": 261, "z": 7, "title": "River Street IV", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 448, "x": 358, "y": 261, "z": 7, "title": "River Street V", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 449, "x": 362, "y": 261, "z": 7, "title": "River Street VI", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 250, "x": 196, "y": 154, "z": 7, "title": "Rook Premium I", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 251, "x": 197, "y": 153, "z": 6, "title": "Rook Premium II", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 252, "x": 197, "y": 155, "z": 6, "title": "Rook Premium III", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 253, "x": 203, "y": 153, "z": 6, "title": "Rook Premium IV", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 213, "x": 195, "y": 169, "z": 7, "title": "Rook Premium IX", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 254, "x": 212, "y": 153, "z": 6, "title": "Rook Premium V", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 255, "x": 201, "y": 147, "z": 7, "title": "Rook Premium VI", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 256, "x": 190, "y": 147, "z": 7, "title": "Rook Premium VII", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 257, "x": 195, "y": 144, "z": 6, "title": "Rook Premium VIII", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 214, "x": 192, "y": 177, "z": 7, "title": "Rook Premium X", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 238203, "x": 190, "y": 169, "z": 6, "title": "Rook Premium XI", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 238201, "x": 172, "y": 180, "z": 7, "title": "Rook Premium XII", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 238202, "x": 169, "y": 184, "z": 6, "title": "Rook Premium XIII", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 212, "x": 260, "y": 117, "z": 7, "title": "Rook Residence", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 293, "x": 250, "y": 128, "z": 7, "title": "Rook Street I", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 294, "x": 255, "y": 128, "z": 7, "title": "Rook Street II", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 295, "x": 250, "y": 128, "z": 6, "title": "Rook Street III", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 297, "x": 255, "y": 128, "z": 6, "title": "Rook Street IV", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 301, "x": 253, "y": 169, "z": 6, "title": "Rook Street IX", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 296, "x": 252, "y": 131, "z": 6, "title": "Rook Street V", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 298, "x": 218, "y": 154, "z": 6, "title": "Rook Street VI", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 299, "x": 255, "y": 151, "z": 6, "title": "Rook Street VII", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 300, "x": 255, "y": 156, "z": 6, "title": "Rook Street VIII", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 302, "x": 255, "y": 156, "z": 7, "title": "Rook Street X", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 303, "x": 282, "y": 133, "z": 9, "title": "Rook Street XI", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 238198, "x": 258, "y": 167, "z": 7, "title": "Rooker I", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 238200, "x": 254, "y": 154, "z": 5, "title": "Rooker II", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 238199, "x": 253, "y": 152, "z": 5, "title": "Rooker III", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 238196, "x": 250, "y": 132, "z": 7, "title": "Rooker IV", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 238197, "x": 255, "y": 132, "z": 7, "title": "Rooker V", "description": "Rookgard", "category1": 3, "category2": 6}
+{"id": 343, "x": 341, "y": 273, "z": 7, "title": "Salam Alejkum", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 238209, "x": 196, "y": 646, "z": 6, "title": "Salik Street I", "description": "Soran", "category1": 3, "category2": 6}
+{"id": 238208, "x": 190, "y": 662, "z": 7, "title": "Salik Street II", "description": "Soran", "category1": 3, "category2": 6}
+{"id": 238206, "x": 165, "y": 664, "z": 7, "title": "Salik Street III", "description": "Soran", "category1": 3, "category2": 6}
+{"id": 238205, "x": 157, "y": 664, "z": 7, "title": "Salik Street IV", "description": "Soran", "category1": 3, "category2": 6}
+{"id": 238204, "x": 158, "y": 652, "z": 7, "title": "Salik Street V", "description": "Soran", "category1": 3, "category2": 6}
+{"id": 238210, "x": 160, "y": 651, "z": 6, "title": "Salik Street VI", "description": "Soran", "category1": 3, "category2": 6}
+{"id": 238207, "x": 167, "y": 664, "z": 6, "title": "Salik Street VII", "description": "Soran", "category1": 3, "category2": 6}
+{"id": 238211, "x": 189, "y": 666, "z": 6, "title": "Salik Street VIII", "description": "Soran", "category1": 3, "category2": 6}
+{"id": 515, "x": 1290, "y": 274, "z": 7, "title": "Sandman Street I", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 516, "x": 1294, "y": 281, "z": 7, "title": "Sandman Street II", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 307, "x": 356, "y": 152, "z": 7, "title": "Seceret Cove I", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 308, "x": 351, "y": 152, "z": 7, "title": "Seceret Cove II", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 309, "x": 346, "y": 152, "z": 7, "title": "Seceret Cove III", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 310, "x": 341, "y": 152, "z": 7, "title": "Seceret Cove IV", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 315, "x": 343, "y": 164, "z": 7, "title": "Seceret Cove IX", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 311, "x": 332, "y": 150, "z": 7, "title": "Seceret Cove V", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 312, "x": 332, "y": 157, "z": 7, "title": "Seceret Cove VI", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 313, "x": 332, "y": 162, "z": 7, "title": "Seceret Cove VII", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 314, "x": 336, "y": 164, "z": 7, "title": "Seceret Cove VIII", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 316, "x": 350, "y": 164, "z": 7, "title": "Seceret Cove X", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 382, "x": 405, "y": 188, "z": 6, "title": "Senja", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 392, "x": 447, "y": 188, "z": 7, "title": "Senja Flat I", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 393, "x": 447, "y": 188, "z": 8, "title": "Senja Flat II", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 394, "x": 444, "y": 191, "z": 8, "title": "Senja Flat III", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 395, "x": 444, "y": 191, "z": 6, "title": "Senja Flat IV", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 396, "x": 447, "y": 188, "z": 6, "title": "Senja Flat V", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 383, "x": 406, "y": 201, "z": 7, "title": "Senja I", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 384, "x": 410, "y": 195, "z": 7, "title": "Senja II", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 385, "x": 418, "y": 187, "z": 7, "title": "Senja III", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 386, "x": 415, "y": 206, "z": 7, "title": "Senja IV", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 391, "x": 436, "y": 187, "z": 6, "title": "Senja IX", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 387, "x": 420, "y": 203, "z": 7, "title": "Senja V", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 388, "x": 430, "y": 195, "z": 7, "title": "Senja VI", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 389, "x": 433, "y": 191, "z": 7, "title": "Senja VII", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 390, "x": 426, "y": 183, "z": 7, "title": "Senja VIII", "description": "Senja", "category1": 3, "category2": 6}
+{"id": 498, "x": 1258, "y": 242, "z": 5, "title": "Shrine I", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 499, "x": 1257, "y": 243, "z": 5, "title": "Shrine II", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 500, "x": 1258, "y": 246, "z": 5, "title": "Shrine III", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 501, "x": 1267, "y": 247, "z": 6, "title": "Shrine IV", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 502, "x": 1264, "y": 254, "z": 7, "title": "Shrine V", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 277, "x": 107, "y": 574, "z": 6, "title": "Sky", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 278, "x": 131, "y": 596, "z": 6, "title": "Sky I", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 279, "x": 131, "y": 599, "z": 6, "title": "Sky II", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 280, "x": 145, "y": 596, "z": 6, "title": "Sky III", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 281, "x": 145, "y": 599, "z": 6, "title": "Sky IV", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 286, "x": 131, "y": 596, "z": 4, "title": "Sky IX", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 282, "x": 131, "y": 596, "z": 5, "title": "Sky V", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 283, "x": 131, "y": 599, "z": 5, "title": "Sky VI", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 284, "x": 145, "y": 596, "z": 5, "title": "Sky VII", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 285, "x": 145, "y": 599, "z": 5, "title": "Sky VIII", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 287, "x": 145, "y": 596, "z": 4, "title": "Sky X", "description": "City of the Sky", "category1": 3, "category2": 6}
+{"id": 478, "x": 344, "y": 243, "z": 7, "title": "Small Street I", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 479, "x": 344, "y": 243, "z": 5, "title": "Small Street II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 480, "x": 343, "y": 233, "z": 5, "title": "Small Street III", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 371, "x": 1015, "y": 797, "z": 7, "title": "Speleo I", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 372, "x": 1022, "y": 797, "z": 7, "title": "Speleo II", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 373, "x": 1029, "y": 797, "z": 7, "title": "Speleo III", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 374, "x": 1036, "y": 797, "z": 7, "title": "Speleo IV", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 379, "x": 1071, "y": 797, "z": 7, "title": "Speleo IX", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 375, "x": 1043, "y": 797, "z": 7, "title": "Speleo V", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 376, "x": 1050, "y": 797, "z": 7, "title": "Speleo VI", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 377, "x": 1057, "y": 797, "z": 7, "title": "Speleo VII", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 378, "x": 1064, "y": 797, "z": 7, "title": "Speleo VIII", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 380, "x": 1078, "y": 797, "z": 7, "title": "Speleo X", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 381, "x": 1085, "y": 797, "z": 7, "title": "Speleo XI", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 229, "x": 331, "y": 233, "z": 7, "title": "Stara Redakcja", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 185668, "x": 422, "y": 502, "z": 7, "title": "Swamp I", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 185669, "x": 422, "y": 505, "z": 7, "title": "Swamp II", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 496, "x": 1267, "y": 217, "z": 6, "title": "Temple Street I", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 497, "x": 1287, "y": 217, "z": 6, "title": "Temple Street II", "description": "City of Dreams", "category1": 3, "category2": 6}
+{"id": 424, "x": 405, "y": 446, "z": 7, "title": "Train Street I", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 425, "x": 408, "y": 446, "z": 7, "title": "Train Street II", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 220, "x": 369, "y": 115, "z": 7, "title": "Trainers Street", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 317, "x": 409, "y": 140, "z": 5, "title": "TransAtlantic", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 238190, "x": 342, "y": 249, "z": 8, "title": "Underground Street I", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 238191, "x": 355, "y": 248, "z": 8, "title": "Underground Street II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 238192, "x": 356, "y": 247, "z": 8, "title": "Underground Street III", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 238193, "x": 364, "y": 248, "z": 8, "title": "Underground Street IV", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 238194, "x": 366, "y": 252, "z": 8, "title": "Underground Street V", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 238195, "x": 374, "y": 252, "z": 8, "title": "Underground Street VI", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 354, "x": 1066, "y": 707, "z": 4, "title": "Upper Ank I", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 355, "x": 1072, "y": 707, "z": 4, "title": "Upper Ank II", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 356, "x": 1078, "y": 707, "z": 4, "title": "Upper Ank III", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 357, "x": 1085, "y": 707, "z": 4, "title": "Upper Ank IV", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 358, "x": 1091, "y": 707, "z": 4, "title": "Upper Ank V", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 359, "x": 1097, "y": 707, "z": 4, "title": "Upper Ank VI", "description": "Ankaros", "category1": 3, "category2": 6}
+{"id": 318, "x": 341, "y": 152, "z": 6, "title": "Upper City I", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 319, "x": 346, "y": 152, "z": 6, "title": "Upper City II", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 320, "x": 354, "y": 150, "z": 6, "title": "Upper City III", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 327, "x": 374, "y": 160, "z": 6, "title": "Upper City IV", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 325, "x": 332, "y": 157, "z": 6, "title": "Upper City IX", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 328, "x": 371, "y": 162, "z": 6, "title": "Upper City V", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 329, "x": 369, "y": 160, "z": 6, "title": "Upper City VI", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 330, "x": 382, "y": 153, "z": 6, "title": "Upper City VII", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 326, "x": 332, "y": 150, "z": 6, "title": "Upper City VIII", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 324, "x": 332, "y": 162, "z": 6, "title": "Upper City X", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 323, "x": 336, "y": 164, "z": 6, "title": "Upper City XI", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 322, "x": 343, "y": 164, "z": 6, "title": "Upper City XII", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 321, "x": 350, "y": 164, "z": 6, "title": "Upper City XIII", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 331, "x": 373, "y": 124, "z": 6, "title": "Upper House I", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 332, "x": 369, "y": 123, "z": 6, "title": "Upper House II", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 333, "x": 365, "y": 123, "z": 6, "title": "Upper House III", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 334, "x": 361, "y": 123, "z": 6, "title": "Upper House IV", "description": "Evul", "category1": 3, "category2": 6}
+{"id": 433, "x": 365, "y": 231, "z": 6, "title": "Upper Street I", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 434, "x": 365, "y": 235, "z": 6, "title": "Upper Street II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 435, "x": 368, "y": 231, "z": 5, "title": "Upper Street IV", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 436, "x": 368, "y": 235, "z": 5, "title": "Upper Street V", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 437, "x": 367, "y": 230, "z": 4, "title": "Upper Street VI", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 438, "x": 368, "y": 234, "z": 4, "title": "Upper Street VII", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 439, "x": 367, "y": 231, "z": 3, "title": "Upper Street VIII", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 440, "x": 369, "y": 232, "z": 2, "title": "Upper Street X", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 289, "x": 512, "y": 231, "z": 7, "title": "Villa I", "description": "Villa", "category1": 3, "category2": 6}
+{"id": 290, "x": 540, "y": 220, "z": 7, "title": "Villa II", "description": "Villa", "category1": 3, "category2": 6}
+{"id": 291, "x": 541, "y": 220, "z": 7, "title": "Villa III", "description": "Villa", "category1": 3, "category2": 6}
+{"id": 292, "x": 539, "y": 231, "z": 7, "title": "Villa IV", "description": "Villa", "category1": 3, "category2": 6}
+{"id": 401, "x": 375, "y": 431, "z": 6, "title": "Waterfall I", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 403, "x": 378, "y": 434, "z": 5, "title": "Waterfall II", "description": "Expgard", "category1": 3, "category2": 6}
+{"id": 453, "x": 307, "y": 249, "z": 7, "title": "West Park", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 455, "x": 308, "y": 262, "z": 7, "title": "West Park II", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 454, "x": 291, "y": 252, "z": 7, "title": "West Park III", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 456, "x": 296, "y": 226, "z": 7, "title": "West Park IV", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 457, "x": 291, "y": 222, "z": 6, "title": "West Park V", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 458, "x": 313, "y": 224, "z": 7, "title": "West Park VI", "description": "Capital City", "category1": 3, "category2": 6}
+{"id": 232, "x": 219, "y": 375, "z": 7, "title": "Wooden Camp I", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 233, "x": 214, "y": 379, "z": 7, "title": "Wooden Camp II", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 234, "x": 219, "y": 382, "z": 7, "title": "Wooden Camp III", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 235, "x": 197, "y": 390, "z": 7, "title": "Wooden Camp IV", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 240, "x": 167, "y": 406, "z": 7, "title": "Wooden Camp IX", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 236, "x": 202, "y": 396, "z": 7, "title": "Wooden Camp V", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 237, "x": 192, "y": 405, "z": 7, "title": "Wooden Camp VI", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 238, "x": 201, "y": 409, "z": 7, "title": "Wooden Camp VII", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 239, "x": 184, "y": 416, "z": 7, "title": "Wooden Camp VIII", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 241, "x": 162, "y": 396, "z": 7, "title": "Wooden Camp X", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 242, "x": 171, "y": 396, "z": 7, "title": "Wooden Camp XI", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 243, "x": 171, "y": 392, "z": 7, "title": "Wooden Camp XII", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 244, "x": 163, "y": 389, "z": 7, "title": "Wooden Camp XIII", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 245, "x": 155, "y": 385, "z": 7, "title": "Wooden Camp XIV", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 246, "x": 159, "y": 376, "z": 7, "title": "Wooden Camp XV", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 247, "x": 166, "y": 367, "z": 7, "title": "Wooden Camp XVI", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 248, "x": 178, "y": 364, "z": 7, "title": "Wooden Camp XVII", "description": "Cyclopolis", "category1": 3, "category2": 6}
+{"id": 249, "x": 176, "y": 370, "z": 7, "title": "Wooden Camp XVIII", "description": "Cyclopolis", "category1": 3, "category2": 6}

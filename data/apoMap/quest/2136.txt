@@ -1,0 +1,2 @@
+{"id": 185604, "x": 272, "y": 284, "z": 9, "title": "Nagroda", "description": "Za pokonanie magow czekaja nagrody.", "category1": 5, "category2": 2136}
+{"id": 185605, "x": 272, "y": 302, "z": 9, "title": "Nagroda", "description": "Za pokonanie magow czekaja nagrody.", "category1": 5, "category2": 2136}

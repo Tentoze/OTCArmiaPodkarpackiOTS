@@ -1,0 +1,2 @@
+{"id": 185575, "x": 479, "y": 387, "z": 8, "title": "Nagroda", "description": "Za pokonanie szefa beholderow mozna otrzymac nagrode.", "category1": 5, "category2": 2127}
+{"id": 185576, "x": 477, "y": 387, "z": 8, "title": "Nagroda", "description": "Za pokonanie szefa beholderow mozna otrzymac nagrode.", "category1": 5, "category2": 2127}

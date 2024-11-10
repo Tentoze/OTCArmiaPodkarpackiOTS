@@ -1,0 +1,1 @@
+{"id": 219882, "x": 267, "y": 46, "z": 9, "title": "Nagroda", "description": "Aby zdobyc jeden z lepszych hemow nalezy pokonac wszystkich wrogow znajdujacych sie w gebokich jaskiniach.", "category1": 7, "category2": 2557}

@@ -1,0 +1,2 @@
+{"id": 219979, "x": 558, "y": 115, "z": 8, "title": "!Wejscie", "description": "Gdy juz wejdziesz, wiedz o tym, ze mozesz nie wrocic juz ta sama droga...", "category1": 5, "category2": 2595}
+{"id": 219980, "x": 599, "y": 124, "z": 9, "title": "Nagroda", "description": "Przyszo nam sie zmierzyc ze spora iloscia Orkow. Jednak zbroja, ktora zdobedziemy, jest chyba tego warta.", "category1": 5, "category2": 2595}

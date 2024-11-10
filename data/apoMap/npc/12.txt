@@ -1,0 +1,16 @@
+{"id": 176, "x": 390, "y": 462, "z": 7, "title": "Fobos (Expgard)", "description": "U Fobos&amp;#039;a mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 185657, "x": 296, "y": 462, "z": 6, "title": "Fobos (Expgard)", "description": "U Fobos&amp;#039;a mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 129, "x": 1337, "y": 107, "z": 6, "title": "Grabur (City of Dreams)", "description": "U Grabura mozna nabyc zawsze swieze i soczyste artykuy spozywcze", "category1": 1, "category2": 12}
+{"id": 128, "x": 1269, "y": 225, "z": 7, "title": "Haran (City of Dreams)", "description": "U Haran&#039;a mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 146, "x": 1078, "y": 742, "z": 6, "title": "Masakrator (Ankaros)", "description": "U Masakratora mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 164, "x": 678, "y": 526, "z": 6, "title": "Masakrator (Canyon of Damned)", "description": "U Masakratora mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 166, "x": 327, "y": 233, "z": 5, "title": "Masakrator (Capital City)", "description": "U Masakratora mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 162, "x": 140, "y": 575, "z": 3, "title": "Masakrator (City of the Sky)", "description": "U Masakratora mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 161, "x": 218, "y": 365, "z": 7, "title": "Masakrator (Cyclopolis)", "description": "U Masakratora mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 167, "x": 161, "y": 658, "z": 7, "title": "Masakrator (Soran)", "description": "U Masakratora mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 130, "x": 1303, "y": 283, "z": 7, "title": "Obskurny Dzony (City of Dreams)", "description": "U Obskurnego Dzonego mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 138, "x": 283, "y": 220, "z": 7, "title": "Rzeznik (Capital City)", "description": "U Rzeznika mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 172, "x": 338, "y": 139, "z": 7, "title": "Rzeznik (Evul)", "description": "U Rzeznika mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 141, "x": 191, "y": 162, "z": 7, "title": "Rzeznik (Rookgard)", "description": "U Rzeznika mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 170, "x": 240, "y": 174, "z": 7, "title": "Rzeznik (Rookgard)", "description": "U Rzeznika mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}
+{"id": 238214, "x": 210, "y": 630, "z": 7, "title": "Rzeznik (Soran)", "description": "U Rzeznika mozna nabyc zawsze swieze artykuy spozywcze.", "category1": 1, "category2": 12}

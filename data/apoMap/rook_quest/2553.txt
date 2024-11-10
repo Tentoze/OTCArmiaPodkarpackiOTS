@@ -1,0 +1,1 @@
+{"id": 219877, "x": 315, "y": 136, "z": 6, "title": "Nagroda", "description": "Tubylcy bronia magicznego pierscienia, ktory umozliwia szybsze poruszanie sie.", "category1": 7, "category2": 2553}

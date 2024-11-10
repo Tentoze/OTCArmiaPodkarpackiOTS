@@ -1,0 +1,95 @@
+2352,10 Small Emeralds Quest
+3027,100 Missions Quest
+2353,15 Small Emeralds Quest
+2354,35 Small Sapphires Quest
+2355,50 White Pearls Quest
+3030,Ahmed Quest Main
+2112,Amazon Camp quest
+2110,Annihilator
+2108,Annihilator II
+3026,Annihilator III Quest
+2824,Arena Main
+2113,Banshee quest
+2138,Behemoths Boss quest
+2127,Beholders Boss quest
+2594,Belhior Quest
+2117,Black Knight quest
+2119,Bright Sword quest
+3029,Brooches Quest
+2593,Broom Quest
+2151,Burning Heart Quest
+2114,Castle quest
+2828,Creator Quest
+2584,Crystal Arrow Quest
+2157,Cursed Cowl Quest
+2822,Dao Quest
+2139,Death Castle quest
+2141,Demon Helmet Quest
+2137,Demons Boss quest
+2140,Demons quest
+2147,Dragon Scale Helmet Quest
+2586,Dragonis Quest
+2128,Dragons Boss quest
+2823,DVE Quest
+2129,Dwarfs Boss quest
+2115,Elf Camp quest
+2130,Elfs Boss quest
+2144,Elven set
+2356,Fire Axe Quest
+2580,Gems Quest
+2131,Giant Spiders Boss quest
+3031,Halloween Quest Main
+2597,Hell Quest
+2120,Hero quest
+2121,Hydra quest
+2125,Hydramus Quest
+2591,Joke Quest
+2572,Key of Exp Quest
+2123,Lizard Temple Quest
+2589,Magic Axe Quest
+2134,Magic quest
+2155,Magic Sapphire Helmet Quest
+2122,Magic Wands
+2149,Magiczne Klapki Zapomnienia
+2576,MER Quest
+2132,Minotaurs Boss quest
+2571,Mixed Quest
+3037,Nan'Tsao Ankaros
+3032,Nan'Tsao City
+3033,Nan'Tsao City II
+3035,Nan'Tsao Cyclopolis
+3034,Nan'Tsao Cyclopolis II
+3038,Nan'Tsao Expgard
+3036,Nan'Tsao Soran
+2595,Orc Fortress Quest
+2133,Orcs Boss quest
+2573,Orshabaal Quest
+2109,OTS quest
+3022,Ots Quest II
+2150,Pandemonium Armor Quest
+2577,Perfect Quest
+2124,Pharaon quest
+3023,Pirate Quest
+2579,Platinum Quest
+2587,Priestess Quest
+2148,Queen quest
+2156,Quest of Destiny
+3028,Quest of the Nine
+2575,ROTS Quest
+2358,Santorr Quests
+2153,Sapphire Armor Quest
+2152,Sapphire Helmet Quest
+2154,Sapphire Legs Quest
+2590,Senja Quest
+2596,Slime Quest
+2107,Soft boots quest
+2588,Sprite Wand Quest
+2135,Steel Boots quest
+2118,Stone Golems Boss quest
+2111,Temple quest
+2812,Ultimate Weapon Quest
+2136,Warlock quest
+2142,Warlord Sword quest
+2146,Whip's Wolf Quest
+2106,Winged Helmet quest
+2116,Yeti quest

@@ -1,0 +1,15 @@
+14,Barmani
+16,Guild masterzy
+19,Inne
+1,Jubilerzy
+15,Mistrzowie questow
+11,Przewoznicy
+13,Sklepy meblowe
+9,Sklepy z ekwipunkiem
+8,Sklepy z runami
+12,Sklepy ze zdrowa zywnoscia
+10,Skupy przedmiotow
+17,Urzedy
+7,Urzedy pocztowe
+18,Usugi
+2162,Wszyscy

@@ -1,0 +1,2 @@
+{"id": 185476, "x": 396, "y": 310, "z": 9, "title": "!Wejscie", "description": "Potrzebujesz 4 osoby z minimalnym poziomem doswiadczenia 200lvl", "category1": 5, "category2": 2108}
+{"id": 185477, "x": 403, "y": 308, "z": 10, "title": "Sala z nagrodami", "description": "Mozna wybrac tylko jedna z czterech nagrod.", "category1": 5, "category2": 2108}

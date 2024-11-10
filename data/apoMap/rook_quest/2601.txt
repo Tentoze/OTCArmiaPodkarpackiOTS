@@ -1,0 +1,1 @@
+{"id": 219984, "x": 231, "y": 156, "z": 7, "title": "Nagroda", "description": "Tarcza do najlepszych nie nalezy, ale z pewnoscia przyda sie poczatkujacemu podroznikowi.", "category1": 7, "category2": 2601}

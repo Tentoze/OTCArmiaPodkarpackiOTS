@@ -1,0 +1,1 @@
+{"id": 219879, "x": 229, "y": 121, "z": 7, "title": "Nagroda", "description": "Rotwormy bronia hemu, ktorym nie wzgardzi poczatkujacy gracz.", "category1": 7, "category2": 2555}

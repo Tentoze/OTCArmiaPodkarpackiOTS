@@ -1,0 +1,3 @@
+{"id": 219944, "x": 65, "y": 386, "z": 10, "title": "!Wejscie", "description": "Zmierz sie ze Smoczymi Lordami i zdobadz nagrody!", "category1": 5, "category2": 2586}
+{"id": 219945, "x": 62, "y": 381, "z": 11, "title": "Nagroda", "description": "Odbierz swoj Ponacy Miecz!", "category1": 5, "category2": 2586}
+{"id": 219946, "x": 65, "y": 381, "z": 11, "title": "Nagroda", "description": "Odbierz swoj Czerwony Paszcz!", "category1": 5, "category2": 2586}

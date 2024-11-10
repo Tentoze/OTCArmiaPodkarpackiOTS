@@ -1,0 +1,1 @@
+{"id": 219943, "x": 264, "y": 111, "z": 8, "title": "Nagroda", "description": "po zabiciu kilku szczurow, mozemy odebrac nagrode, ktora z pewnoscia przyda sie poczatkujacemu graczowi.", "category1": 7, "category2": 2585}

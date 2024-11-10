@@ -1,0 +1,1 @@
+{"id": 219903, "x": 125, "y": 240, "z": 12, "title": "Nagroda", "description": "Geboko w podziemiach Rookgardu Vampire zaciekle broni swojej tarczy. Pomaga mu w tym najsilniejszy z Orc&#039;ow. Tarcza ta, jest jedna z lepszych dostepnych na wyspie poczatkujacych.", "category1": 7, "category2": 2561}

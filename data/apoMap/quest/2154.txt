@@ -1,0 +1,1 @@
+{"id": 185653, "x": 1251, "y": 409, "z": 7, "title": "!NPC Szafir", "description": "Szafir chetnie zamieni nogawice za bardzo cenny klejnot.", "category1": 5, "category2": 2154}

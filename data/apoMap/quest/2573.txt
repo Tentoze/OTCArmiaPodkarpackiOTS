@@ -1,0 +1,1 @@
+{"id": 219892, "x": 535, "y": 622, "z": 12, "title": "Nagrody", "description": "Zabij wszystkie Demony, oraz ich boss&#039;a Orshabaal&#039;a, a otrzymasz 3 cenne nagrody!", "category1": 5, "category2": 2573}

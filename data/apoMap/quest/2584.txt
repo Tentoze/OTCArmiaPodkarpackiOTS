@@ -1,0 +1,4 @@
+{"id": 219934, "x": 699, "y": 197, "z": 7, "title": "!NPC Pustelnik", "description": "Mozemy wyswiadczyc pustelnikowi pewna przysuge, za ktora dostaniemy przedmiot, ktory moze nam sie przydac.", "category1": 5, "category2": 2584}
+{"id": 219937, "x": 716, "y": 187, "z": 9, "title": "Nagroda", "description": "Za pokonanie Krola Ots&#039;a, otrzymujesz Krysztaowa Strzae, ktora nigdy sie nie konczy!", "category1": 5, "category2": 2584}
+{"id": 219936, "x": 704, "y": 189, "z": 9, "title": "Solo Room", "description": "Jesli jestes paladynem, mozesz powalczyc z Krolem Ots&#039;a. Jezeli uda Ci sie go pokonac, otrzymasz nagrode!", "category1": 5, "category2": 2584}
+{"id": 219935, "x": 698, "y": 195, "z": 7, "title": "Ukryte wejscie", "description": "Przedmiot, ktory otrzymalismy od pustelnika, uzywamy na szafie.", "category1": 5, "category2": 2584}

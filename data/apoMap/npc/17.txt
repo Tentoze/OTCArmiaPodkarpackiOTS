@@ -1,0 +1,10 @@
+{"id": 179, "x": 1120, "y": 743, "z": 7, "title": "Notariusz (Ankaros)", "description": "U notariusza mozna dostac akt, bez ktorego niemozliwe jest kupno jak i sprzedaz domku.", "category1": 1, "category2": 17}
+{"id": 180, "x": 356, "y": 254, "z": 6, "title": "Notariusz (Capital City)", "description": "U notariusza mozna dostac akt, bez ktorego niemozliwe jest kupno jak i sprzedaz domku.", "category1": 1, "category2": 17}
+{"id": 177, "x": 1221, "y": 214, "z": 6, "title": "Notariusz (City of Dreams)", "description": "U notariusza mozna dostac akt, bez ktorego niemozliwe jest kupno jak i sprzedaz domku.", "category1": 1, "category2": 17}
+{"id": 185660, "x": 349, "y": 510, "z": 7, "title": "Notariusz (Expgard)", "description": "U notariusza mozna dostac akt, bez ktorego niemozliwe jest kupno jak i sprzedaz domku.", "category1": 1, "category2": 17}
+{"id": 178, "x": 227, "y": 139, "z": 7, "title": "Notariusz (Rookgard)", "description": "U notariusza mozna dostac akt, bez ktorego niemozliwe jest kupno jak i sprzedaz domku.", "category1": 1, "category2": 17}
+{"id": 238219, "x": 187, "y": 649, "z": 6, "title": "Notariusz (Soran)", "description": "U notariusza mozna dostac akt, bez ktorego niemozliwe jest kupno jak i sprzedaz domku.", "category1": 1, "category2": 17}
+{"id": 204, "x": 276, "y": 138, "z": 6, "title": "Oracle (Rookgard)", "description": "Oracle przenosi wojownikow gotowych na wybor profesji do ktoregos z gownych miast.", "category1": 1, "category2": 17}
+{"id": 196, "x": 333, "y": 249, "z": 4, "title": "Orlan (Capital City)", "description": "Orlan dostarcza informacji na temat sposobu uzyskania promocyjnego konta.", "category1": 1, "category2": 17}
+{"id": 195, "x": 1256, "y": 222, "z": 5, "title": "Orlan (City of Dreams)", "description": "Orlan dostarcza informacji na temat sposobu uzyskania promocyjnego konta.", "category1": 1, "category2": 17}
+{"id": 185661, "x": 356, "y": 449, "z": 4, "title": "Orlan (Expgard)", "description": "Orlan dostarcza informacji na temat sposobu uzyskania promocyjnego konta.", "category1": 1, "category2": 17}

@@ -1,0 +1,2 @@
+{"id": 185581, "x": 419, "y": 503, "z": 8, "title": "Nagroda", "description": "Za pokonanie mitycznych elfow czeka nagroda.", "category1": 5, "category2": 2130}
+{"id": 185582, "x": 417, "y": 503, "z": 8, "title": "Nagroda", "description": "Za pokonanie mitycznych elfow czeka nagroda.", "category1": 5, "category2": 2130}

@@ -1,0 +1,1 @@
+{"id": 219891, "x": 465, "y": 476, "z": 5, "title": "Nagroda", "description": "Do zdobycia klucz, ktory otwiera pewne drzwi w miescie Expgard. Owe drzwi znajduja sie niedaleko Cody&#039;ego.", "category1": 5, "category2": 2572}

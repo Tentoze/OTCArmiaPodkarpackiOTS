@@ -1,0 +1,2 @@
+{"id": 185644, "x": 706, "y": 266, "z": 1, "title": "!NPC Starzec", "description": "Starzec za skromna sumke udziela dostepu do wasciwej czesci zadania.", "category1": 5, "category2": 2150}
+{"id": 185645, "x": 728, "y": 251, "z": 7, "title": "Nagroda", "description": "Nagroda za trudy jest bardzo cenna zbroja posiadajaca ciekawe wasciwosci magiczne.", "category1": 5, "category2": 2150}

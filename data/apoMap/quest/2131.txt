@@ -1,0 +1,2 @@
+{"id": 185583, "x": 253, "y": 489, "z": 8, "title": "Nagroda", "description": "Aby otrzymac nagrode, nalezy pokonac hordy ogromnych pajakow.", "category1": 5, "category2": 2131}
+{"id": 185584, "x": 251, "y": 489, "z": 8, "title": "Nagroda", "description": "Aby otrzymac nagrode, nalezy pokonac hordy ogromnych pajakow.", "category1": 5, "category2": 2131}

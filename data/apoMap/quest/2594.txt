@@ -1,0 +1,2 @@
+{"id": 219976, "x": 635, "y": 869, "z": 8, "title": "Nagroda 1", "description": "Pec zenska z pewnoscia nie pogardzi ta nagroda.", "category1": 5, "category2": 2594}
+{"id": 219977, "x": 639, "y": 868, "z": 8, "title": "Nagroda 2", "description": "Zdobywasz magiczny kapelusz!", "category1": 5, "category2": 2594}

@@ -1,0 +1,4 @@
+{"id": 185480, "x": 356, "y": 58, "z": 9, "title": "!NPC Luminela", "description": "U Lumineli musisz kupic zoty klucz niezbedny do wykonania questa.", "category1": 5, "category2": 2107}
+{"id": 219886, "x": 339, "y": 89, "z": 7, "title": "Bone Key", "description": "Klucz potrzebny, aby dostac sie do NPC Luminela.", "category1": 5, "category2": 2107}
+{"id": 185482, "x": 439, "y": 129, "z": 8, "title": "Nagroda", "description": "", "category1": 5, "category2": 2107}
+{"id": 185481, "x": 438, "y": 158, "z": 7, "title": "Wejscie", "description": "Przez te drzwi dostaniesz sie do wasciwej czesci questa.", "category1": 5, "category2": 2107}

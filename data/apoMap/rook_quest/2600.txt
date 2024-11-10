@@ -1,0 +1,2 @@
+{"id": 219985, "x": 87, "y": 252, "z": 14, "title": "!Wejscie", "description": "Potrzebujesz czterech osob do tego zadania. Kazdy musi posiadac minimum 100 poziom doswiadczenia.", "category1": 7, "category2": 2600}
+{"id": 219986, "x": 102, "y": 250, "z": 15, "title": "Nagrody", "description": "Mozesz wybrac tylko jedna nagrode!\nDo wyboru masz: Demon Shield, Rook Boots, Hunting Spear i 50x UH Rune.", "category1": 7, "category2": 2600}

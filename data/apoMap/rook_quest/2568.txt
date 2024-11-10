@@ -1,0 +1,4 @@
+{"id": 219914, "x": 215, "y": 130, "z": 10, "title": "!Wejscie 1", "description": "Tym wejsciem mozemy wejsc majac minimum 130 poziom doswiadczenia.", "category1": 7, "category2": 2568}
+{"id": 219915, "x": 194, "y": 139, "z": 10, "title": "!Wejscie 2", "description": "Tym wejsciem mozemy wejsc majac minimum 125 poziom doswiadczenia.", "category1": 7, "category2": 2568}
+{"id": 219916, "x": 214, "y": 70, "z": 10, "title": "Nagroda Bright Sword", "description": "Mozesz wybrac tylko jedna nagrode.", "category1": 7, "category2": 2568}
+{"id": 219917, "x": 216, "y": 69, "z": 10, "title": "Nagroda Giant Sword", "description": "Mozesz wybrac tylko jedna nagrode.", "category1": 7, "category2": 2568}

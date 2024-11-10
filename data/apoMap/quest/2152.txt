@@ -1,0 +1,4 @@
+{"id": 185648, "x": 524, "y": 167, "z": 8, "title": "!Start", "description": "", "category1": 5, "category2": 2152}
+{"id": 185650, "x": 570, "y": 216, "z": 11, "title": "Nagroda", "description": "W nagrode za wykonanie caego zadania otrzymujemy Sapphire Helmet.", "category1": 5, "category2": 2152}
+{"id": 185649, "x": 540, "y": 206, "z": 10, "title": "Wejscie do pokoju z potworami", "description": "Aby dostac sie do wasciwej czesci zadania potrzebna bedzie druzyna skadajaca sie z czterech osob o roznych profesjach posiadajacych co najmniej 300 poziom doswiadczenia.", "category1": 5, "category2": 2152}
+{"id": 219925, "x": 617, "y": 184, "z": 10, "title": "Zegarek", "description": "Moze sie przydac...", "category1": 5, "category2": 2152}

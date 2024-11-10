@@ -1,0 +1,1 @@
+{"id": 219909, "x": 86, "y": 80, "z": 7, "title": "Nagroda", "description": "W nagrode za pokonanie bossa olbrzymich pajakow, mozna otrzymac ognisty topor.", "category1": 7, "category2": 2565}

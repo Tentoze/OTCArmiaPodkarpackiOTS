@@ -1,0 +1,9 @@
+{"id": 185, "x": 1059, "y": 746, "z": 7, "title": "Guild Master (Ankaros)", "description": "Za posrednictwem Guild Mastera liderzy i vice liderzy moga zarzadzac gildia.", "category1": 1, "category2": 16}
+{"id": 184, "x": 268, "y": 235, "z": 7, "title": "Guild Master (Capital City)", "description": "Za posrednictwem Guild Mastera liderzy i vice liderzy moga zarzadzac gildia.", "category1": 1, "category2": 16}
+{"id": 186, "x": 333, "y": 249, "z": 5, "title": "Guild Master (Capital City)", "description": "Za posrednictwem Guild Mastera liderzy i vice liderzy moga zarzadzac gildia.", "category1": 1, "category2": 16}
+{"id": 181, "x": 1255, "y": 222, "z": 6, "title": "Guild Master (City of Dreams)", "description": "Za posrednictwem Guild Mastera liderzy i vice liderzy moga zarzadzac gildia.", "category1": 1, "category2": 16}
+{"id": 182, "x": 1250, "y": 292, "z": 7, "title": "Guild Master (City of Dreams)", "description": "Za posrednictwem Guild Mastera liderzy i vice liderzy moga zarzadzac gildia.", "category1": 1, "category2": 16}
+{"id": 183, "x": 336, "y": 111, "z": 7, "title": "Guild Master (Evul)", "description": "Za posrednictwem Guild Mastera liderzy i vice liderzy moga zarzadzac gildia.", "category1": 1, "category2": 16}
+{"id": 188, "x": 355, "y": 478, "z": 6, "title": "Guild Master (Expgard)", "description": "Za posrednictwem Guild Mastera liderzy i vice liderzy moga zarzadzac gildia.", "category1": 1, "category2": 16}
+{"id": 187, "x": 271, "y": 125, "z": 7, "title": "Guild Master (Rookgard)", "description": "Za posrednictwem Guild Mastera liderzy i vice liderzy moga zarzadzac gildia.", "category1": 1, "category2": 16}
+{"id": 238216, "x": 202, "y": 663, "z": 6, "title": "Guild Master (Soran)", "description": "Za posrednictwem Guild Mastera liderzy i vice liderzy moga zarzadzac gildia.", "category1": 1, "category2": 16}

@@ -1,0 +1,23 @@
+{"id": 96, "x": 474, "y": 250, "z": 7, "title": "Amazer (Wyspa Amazonek)", "description": "Amazer oferuje rejs do Capital City.", "category1": 1, "category2": 11}
+{"id": 67, "x": 1079, "y": 771, "z": 3, "title": "Anakin (Ankaros)", "description": "Djinn Anakin za pomoca swego latajacego dywanu przenosi podroznikow do City of the Sky, badz City of Dreams.", "category1": 1, "category2": 11}
+{"id": 114, "x": 1269, "y": 267, "z": 5, "title": "Andari (City of Dreams)", "description": "Djinn Andari za pomoca swego latajacego dywanu przenosi podroznikow do City of the Sky, badz Ankaros.", "category1": 1, "category2": 11}
+{"id": 32, "x": 222, "y": 261, "z": 5, "title": "Capitan Delgrin (Capital City)", "description": "Capitan Delgrin moze zaoferowac nam rejs do City of Dreams.", "category1": 1, "category2": 11}
+{"id": 108, "x": 405, "y": 142, "z": 4, "title": "Capitan Jackal (Evul)", "description": "Capitan Jackal oferuje podroznikom rejs na Capital City, Wyspe Amazonek, Zamek, Senje, Ville, POH, Expgard lub Soran.", "category1": 1, "category2": 11}
+{"id": 83, "x": 994, "y": 389, "z": 6, "title": "Capitan Magican (Magic Islands)", "description": "Capitan Magican oferuje transport do Canyon of Damned lub City of Dreams.", "category1": 1, "category2": 11}
+{"id": 93, "x": 186, "y": 443, "z": 7, "title": "Cyclon (Cyclopolis)", "description": "Cyclon ma do zaoferowania rejs do Soran.", "category1": 1, "category2": 11}
+{"id": 86, "x": 229, "y": 530, "z": 7, "title": "Dark (Darkness Island)", "description": "Dark moze nas przetransportowac swoim statkiem na Soran.", "category1": 1, "category2": 11}
+{"id": 71, "x": 689, "y": 643, "z": 7, "title": "Dead Head (Volcano)", "description": "Dead Head moze nas przetransportowac swoim statkiem do Capital City.", "category1": 1, "category2": 11}
+{"id": 33, "x": 1354, "y": 72, "z": 5, "title": "Dreamoon (City of Dreams)", "description": "Dreamoon moze z nami pynac do Capital City, Ankaros lub Magic Islands.", "category1": 1, "category2": 11}
+{"id": 99, "x": 334, "y": 419, "z": 6, "title": "Edgard (Expgard)", "description": "Edgard moze zabrac podroznikow na Capital City, Wyspe Amazonek, Zamek, Senje, POH, Evul lub Soran.", "category1": 1, "category2": 11}
+{"id": 189, "x": 56, "y": 145, "z": 7, "title": "Endiergo (Rookgard)", "description": "Endiergo za drobna opata badz usuge przenosi w miejsce, ktore idealnie nadaje sie do polowania.", "category1": 1, "category2": 11}
+{"id": 95, "x": 325, "y": 198, "z": 6, "title": "Fargum (Capital City)", "description": "Fargum oferuje podroznikom rejs na Wyspe Amazonek, Zamek, Senje, Ville, POH, Expgard, Evul lub Soran.", "category1": 1, "category2": 11}
+{"id": 98, "x": 359, "y": 352, "z": 7, "title": "Hermesis (POH)", "description": "Hermesis oferuje rejs do Capital City.", "category1": 1, "category2": 11}
+{"id": 100, "x": 400, "y": 190, "z": 7, "title": "James (Senja)", "description": "James oferuje rejs do Capital City.", "category1": 1, "category2": 11}
+{"id": 79, "x": 138, "y": 575, "z": 2, "title": "Jin (City of the Sky)", "description": "Jin za pomoca swojego latajacego dywanu moze transportowac podroznikow do Darkness Island, Ankaros lub City of Dreams.", "category1": 1, "category2": 11}
+{"id": 68, "x": 1109, "y": 838, "z": 6, "title": "Marwin (Ankaros)", "description": "Statek Marwin&#039;a moze za drobna opata zabrac podroznika do Bamboo Camp lub City of Dreams.", "category1": 1, "category2": 11}
+{"id": 80, "x": 387, "y": 319, "z": 6, "title": "ShaShaSha (Bamboo Camp)", "description": "ShaShaSha oferuje rejs swoim statkiem do City of the Sky, Canyon of Damned lub Ankaros.", "category1": 1, "category2": 11}
+{"id": 81, "x": 109, "y": 589, "z": 6, "title": "ShaShaSha (City of the Sky)", "description": "ShaShaSha oferuje rejs swoim statkiem do Bamboo Camp.", "category1": 1, "category2": 11}
+{"id": 94, "x": 183, "y": 688, "z": 6, "title": "Sorlan (Soran)", "description": "Sorlan daje mozliwosc rejsu na Capital City, Wyspe Amazonek, Zamek, Senje, POH, Expgard, Evul lub Cyclopolis.", "category1": 1, "category2": 11}
+{"id": 101, "x": 471, "y": 237, "z": 7, "title": "Vill (Villa)", "description": "Vill oferuje rejs do Capital City.", "category1": 1, "category2": 11}
+{"id": 72, "x": 192, "y": 360, "z": 7, "title": "Voolco (Cyclopolis)", "description": "Statek Voolco&#039;a kursuje do Volcano.", "category1": 1, "category2": 11}
+{"id": 82, "x": 686, "y": 544, "z": 6, "title": "Yoshi (Canyon of Damned)", "description": "Yoshi za drobna opata oferuje rejs do Bamboo Camp lub Magic Islands.", "category1": 1, "category2": 11}

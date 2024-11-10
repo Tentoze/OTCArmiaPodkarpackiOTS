@@ -1,0 +1,2 @@
+{"id": 185594, "x": 378, "y": 253, "z": 9, "title": "Nagroda", "description": "Za pokonanie wszystkich wrogow mozna otrzymac cenne nagrody.", "category1": 5, "category2": 2120}
+{"id": 185595, "x": 371, "y": 253, "z": 9, "title": "Nagroda", "description": "Za pokonanie wszystkich wrogow mozna otrzymac cenne nagrody.", "category1": 5, "category2": 2120}

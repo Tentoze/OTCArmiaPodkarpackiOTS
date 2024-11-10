@@ -1,0 +1,2 @@
+{"id": 185579, "x": 481, "y": 489, "z": 8, "title": "Nagroda", "description": "Stwory zyjace w kopalniach bronia cennych nagrod.", "category1": 5, "category2": 2129}
+{"id": 185580, "x": 479, "y": 489, "z": 8, "title": "Nagroda", "description": "Stwory zyjace w kopalniach bronia cennych nagrod.", "category1": 5, "category2": 2129}

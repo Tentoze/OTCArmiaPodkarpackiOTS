@@ -1,0 +1,1 @@
+{"id": 185612, "x": 386, "y": 291, "z": 10, "title": "Nagrody", "description": "Po zabiciu wszystkich potworow znajdujacych sie w sali, otrzymamy trzy nagrody.", "category1": 5, "category2": 2141}

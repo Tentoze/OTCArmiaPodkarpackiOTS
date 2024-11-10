@@ -1,0 +1,6 @@
+{"id": 393169, "x": 1080, "y": 901, "z": 7, "title": "", "description": "", "category1": 2, "category2": 4305}
+{"id": 393168, "x": 1070, "y": 899, "z": 7, "title": "", "description": "", "category1": 2, "category2": 4305}
+{"id": 389720, "x": 368, "y": 251, "z": 7, "title": "", "description": "", "category1": 2, "category2": 4305}
+{"id": 387410, "x": 1071, "y": 948, "z": 6, "title": "", "description": "", "category1": 2, "category2": 4305}
+{"id": 387409, "x": 1080, "y": 905, "z": 6, "title": "", "description": "", "category1": 2, "category2": 4305}
+{"id": 387408, "x": 1071, "y": 900, "z": 6, "title": "", "description": "", "category1": 2, "category2": 4305}

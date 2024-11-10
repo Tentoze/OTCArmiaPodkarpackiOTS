@@ -1,0 +1,2 @@
+{"id": 219913, "x": 167, "y": 211, "z": 12, "title": "!Wejscie", "description": "Pokonaj Smoki i zdobadz nagrode!", "category1": 7, "category2": 2563}
+{"id": 219905, "x": 133, "y": 210, "z": 11, "title": "Nagroda", "description": "Nagroda za pokonanie groznych smokow sa buty umozliwiajace szybsze chodzenie.", "category1": 7, "category2": 2563}

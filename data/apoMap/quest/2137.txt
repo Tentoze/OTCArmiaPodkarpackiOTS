@@ -1,0 +1,2 @@
+{"id": 185589, "x": 361, "y": 422, "z": 8, "title": "Nagroda", "description": "Potezny boss Demonow - Orshabaal - broni cennego skarbu.", "category1": 5, "category2": 2137}
+{"id": 185590, "x": 359, "y": 422, "z": 8, "title": "Nagroda", "description": "Potezny boss Demonow - Orshabaal - broni cennego skarbu.", "category1": 5, "category2": 2137}

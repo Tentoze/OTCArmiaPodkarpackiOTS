@@ -1,0 +1,2 @@
+{"id": 185587, "x": 481, "y": 442, "z": 8, "title": "Nagroda", "description": "Za pokonanie lidera orkow mozna otrzymac cenne nagrody.", "category1": 5, "category2": 2133}
+{"id": 185588, "x": 483, "y": 442, "z": 8, "title": "Nagroda", "description": "Za pokonanie lidera orkow mozna otrzymac cenne nagrody.", "category1": 5, "category2": 2133}

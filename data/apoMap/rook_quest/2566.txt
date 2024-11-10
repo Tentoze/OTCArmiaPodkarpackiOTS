@@ -1,0 +1,1 @@
+{"id": 219910, "x": 60, "y": 69, "z": 6, "title": "Nagroda", "description": "Wiele silnych potworow strzeze dostepu do nagrody. Poniesiony trud nie pojdzie jednak na marne.", "category1": 7, "category2": 2566}

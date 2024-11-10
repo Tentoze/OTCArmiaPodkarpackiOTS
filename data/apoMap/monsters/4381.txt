@@ -1,0 +1,7 @@
+{"id": 409779, "x": 1242, "y": 833, "z": 10, "title": "", "description": "", "category1": 2, "category2": 4381}
+{"id": 409542, "x": 1120, "y": 783, "z": 10, "title": "", "description": "", "category1": 2, "category2": 4381}
+{"id": 409516, "x": 1122, "y": 779, "z": 10, "title": "", "description": "", "category1": 2, "category2": 4381}
+{"id": 408055, "x": 234, "y": 407, "z": 10, "title": "", "description": "", "category1": 2, "category2": 4381}
+{"id": 407938, "x": 325, "y": 365, "z": 10, "title": "", "description": "", "category1": 2, "category2": 4381}
+{"id": 404443, "x": 408, "y": 362, "z": 9, "title": "", "description": "", "category1": 2, "category2": 4381}
+{"id": 396492, "x": 786, "y": 372, "z": 8, "title": "", "description": "", "category1": 2, "category2": 4381}

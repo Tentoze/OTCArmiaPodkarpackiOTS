@@ -1,0 +1,2 @@
+{"id": 185585, "x": 419, "y": 454, "z": 8, "title": "Nagroda", "description": "Przywodca minotaurow broni cennych skarbow.", "category1": 5, "category2": 2132}
+{"id": 185586, "x": 417, "y": 454, "z": 8, "title": "Nagroda", "description": "Przywodca minotaurow broni cennych skarbow.", "category1": 5, "category2": 2132}

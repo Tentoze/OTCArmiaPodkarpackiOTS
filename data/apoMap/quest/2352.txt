@@ -1,0 +1,1 @@
+{"id": 202610, "x": 474, "y": 504, "z": 7, "title": "Nagroda", "description": "Quest dla poczatkujacych bohaterow, polegajacy na zabiciu kilku Slimow.", "category1": 5, "category2": 2352}

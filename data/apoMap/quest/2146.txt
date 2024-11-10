@@ -1,0 +1,2 @@
+{"id": 185616, "x": 1457, "y": 271, "z": 9, "title": "!Start", "description": "Osoba posiadajaca co najmniej 500 poziom doswiadczenia moze zdobyc bicz, ktorym okiezna niejednego wilka.", "category1": 5, "category2": 2146}
+{"id": 185617, "x": 1456, "y": 241, "z": 9, "title": "Nagroda", "description": "Po zabiciu wszystkich potworow, mozna zabrac nagrode. Nalezy zachowac szczegolna ostroznosc, bowiem zabranie skarbu ze skrzyni moze wywoac gniew poteznych stworow.", "category1": 5, "category2": 2146}

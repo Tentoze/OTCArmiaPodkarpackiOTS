@@ -1,0 +1,38 @@
+{"id": 119, "x": 532, "y": 908, "z": 10, "title": "Aqar", "description": "Aqar stoi przy wejsciu do labiryntu. U niego takze mozna wykonac jedna z misji do &quot;Magic Axe Quest&quot;.", "category1": 1, "category2": 15}
+{"id": 158, "x": 330, "y": 676, "z": 11, "title": "Beliar", "description": "Za drobna opata Beliar moze przeniesc podroznika &quot;Winged Helmet Quest&quot;.", "category1": 1, "category2": 15}
+{"id": 122, "x": 510, "y": 1054, "z": 11, "title": "Burnin", "description": "Burnin w zamian za przysuge udziela dostepu do nowych respawn&#039;ow.", "category1": 1, "category2": 15}
+{"id": 152, "x": 557, "y": 844, "z": 8, "title": "Cobriana", "description": "Cobriana to klucz do jednej z zagadek zadania &quot;Queen Quest&quot;.", "category1": 1, "category2": 15}
+{"id": 117, "x": 1373, "y": 244, "z": 3, "title": "Coorvaah", "description": "Coorvaah prowadzi sklep dostepny tylko dla osob, ktore wypeniy misje HOTA u Santorr&#039;a. Sklep ten zawiera bardzo interesujacy asortyment.", "category1": 1, "category2": 15}
+{"id": 139, "x": 129, "y": 420, "z": 7, "title": "David", "description": "David moze byc pomocny w wykonaniu zadania &quot;Quest of Destiny&quot;.", "category1": 1, "category2": 15}
+{"id": 238221, "x": 229, "y": 647, "z": 8, "title": "Erdo", "description": "brak opisu", "category1": 1, "category2": 15}
+{"id": 125, "x": 924, "y": 162, "z": 3, "title": "Ganxale", "description": "Zapaleni kolekcjonerzy moga u niego zamienic pewien przedmiot na misia pande o dowolnie wybranej nazwie.", "category1": 1, "category2": 15}
+{"id": 238225, "x": 262, "y": 156, "z": 7, "title": "General Grab", "description": "Genera Wielkiej Armii Swietych Znakow APO.", "category1": 1, "category2": 15}
+{"id": 157, "x": 334, "y": 674, "z": 12, "title": "Gronoshar", "description": "Demon posiadajacy wiedze niezbedna przy wykonywaniu zadania &quot;Winged Helmet Quest&quot;.", "category1": 1, "category2": 15}
+{"id": 160, "x": 366, "y": 133, "z": 6, "title": "Johen", "description": "Johen to mag posiadajacy ogromna wiedze, ktora nie raz moze sie komus przydac.", "category1": 1, "category2": 15}
+{"id": 140, "x": 1059, "y": 496, "z": 5, "title": "Katius", "description": "Katius jest pomocny przy wykonywaniu zadania &quot;Quest of Destiny&quot;.", "category1": 1, "category2": 15}
+{"id": 238228, "x": 307, "y": 378, "z": 8, "title": "Lony", "description": "Lony pozwala zabijac potwory na swoim terenie.", "category1": 1, "category2": 15}
+{"id": 175, "x": 356, "y": 58, "z": 9, "title": "Luminela", "description": "Luminela pomoze kazdemu kto dazy do zdobycia miekkich butow.", "category1": 1, "category2": 15}
+{"id": 238223, "x": 176, "y": 642, "z": 7, "title": "Marthen", "description": "brak opisu", "category1": 1, "category2": 15}
+{"id": 153, "x": 648, "y": 803, "z": 6, "title": "Monkan", "description": "Monkan pomaga w jednej z misji zadania &quot;Queen Quest&quot;.", "category1": 1, "category2": 15}
+{"id": 238224, "x": 165, "y": 160, "z": 8, "title": "Natasha the Beggar", "description": "Zebraczka szwendajaca sie w podziemiach miasta.", "category1": 1, "category2": 15}
+{"id": 238222, "x": 420, "y": 373, "z": 5, "title": "Popi", "description": "brak opisu", "category1": 1, "category2": 15}
+{"id": 149, "x": 700, "y": 196, "z": 7, "title": "Pustelnik", "description": "Na pozor niepotrzebny Pustelnik moze okazac sie niezbedny w trakcie poszukiwan krysztaowej strzay.", "category1": 1, "category2": 15}
+{"id": 118, "x": 1019, "y": 556, "z": 7, "title": "Pustelnik Ahmed", "description": "Ahmed pomaga w wykonaniu misji &quot;Second Weapon&quot;, ktora zleca Santorr.", "category1": 1, "category2": 15}
+{"id": 121, "x": 653, "y": 373, "z": 6, "title": "Quiver", "description": "Wykonanie misji zleconych przez tego npc jest niezbedne do ukonczenia &quot;Magic Axe Quest&quot;.", "category1": 1, "category2": 15}
+{"id": 150, "x": 694, "y": 664, "z": 4, "title": "Rabin", "description": "Rabin moze nam zlecic zadania, od ktorych wykonania zalezy ukonczenie &quot;Queen Quest&quot;. Moze nas takze przeniesc do labiryntu.", "category1": 1, "category2": 15}
+{"id": 120, "x": 267, "y": 220, "z": 6, "title": "Rodo", "description": "Rodo zleca misje niezbedne do wykonania &quot;Magic Axe Quest&quot;. Po wykonaniu owych misji mozna nabyc u niego caa game run.", "category1": 1, "category2": 15}
+{"id": 124, "x": 432, "y": 158, "z": 7, "title": "Santa Claus", "description": "Santa Claus pojawia sie tylko raz do roku - w okresie Bozego Narodzenia. Jesli byo sie grzecznym cay rok, mozna dostac od niego prezent.", "category1": 1, "category2": 15}
+{"id": 116, "x": 368, "y": 84, "z": 5, "title": "Santorr", "description": "Santorr zleca wiele misji o roznym stopniu trudnosci. Kazdy podroznik zdoa wykonac ktoras z nich. Kazda zakonczona misja niesie ze soba ciekawe nagrody.", "category1": 1, "category2": 15}
+{"id": 159, "x": 366, "y": 673, "z": 15, "title": "Sfinks", "description": "Po rozwiazaniu zagadki Sfinksa moze on przeniesc podroznika do pomieszczenia z nagroda. W razie podania zej odpowiedzi na jego zagadke zabija.", "category1": 1, "category2": 15}
+{"id": 151, "x": 660, "y": 807, "z": 7, "title": "Snaken", "description": "Snaken to niezwyky waz. Moze sie okazac przydatny w trakcie wykonywania zadania &quot;Queen Quest&quot;.", "category1": 1, "category2": 15}
+{"id": 165, "x": 706, "y": 265, "z": 1, "title": "Starzec", "description": "Starzec moze przydac sie wojownikom, ktorzy chca stoczyc walke z poteznym czarodziejem o bardzo wartosciowy przedmiot.", "category1": 1, "category2": 15}
+{"id": 154, "x": 669, "y": 654, "z": 8, "title": "Straznik", "description": "Podroznik po okazaniu pewnego dokumentu Straznikowi moze dostac sie do starozytnego otarza.", "category1": 1, "category2": 15}
+{"id": 238229, "x": 220, "y": 144, "z": 14, "title": "Stuart", "description": "brak opisu", "category1": 1, "category2": 15}
+{"id": 134, "x": 1251, "y": 410, "z": 7, "title": "Szafir (Ankaros)", "description": "U Szafira mozna zamienic bardzo wartosciowy przedmiot na wspaniae nogawice posiadajace magiczne wasciwosci.", "category1": 1, "category2": 15}
+{"id": 155, "x": 477, "y": 764, "z": 7, "title": "Szaleniec", "description": "Szaleniec sowicie wynagrodzi tego, kto przyniesie mu pewien bardzo wazny dla niego przedmiot.", "category1": 1, "category2": 15}
+{"id": 123, "x": 585, "y": 771, "z": 8, "title": "Vordor", "description": "Podroznik po ukonczeniu pewnych zadan oraz po okazaniu specjalnego dokumentu moze zostac przeniesiony przez Vordor&#039;a do labiryntu.", "category1": 1, "category2": 15}
+{"id": 238226, "x": 262, "y": 159, "z": 7, "title": "Warrior", "description": "Straznik generaa Wielkiej Armii Swietych Znakow APO.", "category1": 1, "category2": 15}
+{"id": 238227, "x": 264, "y": 159, "z": 7, "title": "Warrior", "description": "Straznik generaa Wielkiej Armii Swietych Znakow APO.", "category1": 1, "category2": 15}
+{"id": 156, "x": 312, "y": 688, "z": 15, "title": "Wiezien", "description": "Wiezien to jedna z kluczowych postaci przy wykonywaniu &quot;Winged Helmet Quest&quot;.", "category1": 1, "category2": 15}
+{"id": 115, "x": 338, "y": 407, "z": 6, "title": "Witch", "description": "Wojownicy o niskim doswiadczeniu moga w zamian za pomoc otrzymac od tej czarownicy krysztaowe monety. ", "category1": 1, "category2": 15}
+{"id": 171, "x": 144, "y": 280, "z": 14, "title": "Zinab", "description": "Po wykonaniu wszystkich zadan Zinab&#039;a dostajemy mozliwosc zaopatrywania sie u niego w Intense Healing Rune.", "category1": 1, "category2": 15}

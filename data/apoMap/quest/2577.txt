@@ -1,0 +1,7 @@
+{"id": 219897, "x": 1425, "y": 228, "z": 3, "title": "!NPC Salim", "description": "U Salim&#039;a mozemy nie tylko kupic amulet Starlight, ale rowniez zrobic pewna misje, w ktorej nagrodami sa: Mozliwosc tworzenia specjalnych amuletow, oraz dostep do terenow z Ward&#039;ami.", "category1": 5, "category2": 2577}
+{"id": 219899, "x": 1433, "y": 413, "z": 12, "title": "Dzwignia 1", "description": "Dzwignia usuwajaca magiczna sciane.", "category1": 5, "category2": 2577}
+{"id": 219900, "x": 1428, "y": 471, "z": 12, "title": "Dzwignia 2", "description": "Wejscie do pomieszczenia z poteznymi potworami. Jesli Ci zycie mie, nie probuj wchodzic sam.", "category1": 5, "category2": 2577}
+{"id": 219901, "x": 1412, "y": 482, "z": 12, "title": "Dzwignia 3", "description": "Wejscie do pomieszczenia z nagroda.", "category1": 5, "category2": 2577}
+{"id": 219898, "x": 1378, "y": 445, "z": 12, "title": "Klucz", "description": "Potrzebny, aby otworzyc pewne drzwi...", "category1": 5, "category2": 2577}
+{"id": 219902, "x": 1400, "y": 483, "z": 13, "title": "Nagroda Egipcian Amulet", "description": "Zdobywasz Egipcian Amulet!", "category1": 5, "category2": 2577}
+{"id": 219922, "x": 1386, "y": 142, "z": 7, "title": "Wejscie na resp", "description": "Wejscie do terenow z Ward&#039;ami. Badz ostrozny! Niepozorne, lecz bardzo niebezpieczne stworzenia!", "category1": 5, "category2": 2577}

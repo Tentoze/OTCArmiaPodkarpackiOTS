@@ -1,0 +1,5 @@
+{"id": 202622, "x": 368, "y": 84, "z": 5, "title": "!NPC Santorr", "description": "Mozemy u niego wykonac wiele przeroznych misji. Nagrody sa tego warte!", "category1": 5, "category2": 2358}
+{"id": 202623, "x": 1032, "y": 559, "z": 7, "title": "Arena", "description": "Miejsce wykonania jednej z misji.", "category1": 5, "category2": 2358}
+{"id": 219973, "x": 1033, "y": 544, "z": 7, "title": "Jedna z nagrod", "description": "Jedna z wielu nagrod misji Santorr&#039;a. Tutaj mozemy zdobyc Eagle Shield.", "category1": 5, "category2": 2358}
+{"id": 202625, "x": 1374, "y": 244, "z": 3, "title": "NPC Coorvaah", "description": "Coorvaah prowadzi sklep dostepny tylko dla osob, ktore wypeniy misje &#039;Last bonus&#039; oraz &#039;Sklep&#039; u Santorr&#039;a. Sklep ten zawiera bardzo interesujacy asortyment.", "category1": 5, "category2": 2358}
+{"id": 202624, "x": 1018, "y": 554, "z": 7, "title": "NPC Pustelnik Ahmed", "description": "Ahmed pomaga w niejednej misji tego zadania. Niestety jak to pustelnik - lubi wedrowac. Moze znajdowac sie na caej pustyni woko miasta Ankaros.", "category1": 5, "category2": 2358}

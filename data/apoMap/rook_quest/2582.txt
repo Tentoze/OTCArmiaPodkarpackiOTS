@@ -1,0 +1,2 @@
+{"id": 219930, "x": 172, "y": 85, "z": 6, "title": "!Wejscie", "description": "Pokonaj kapanow i kilka szkieletow i zdobadz nagrode!", "category1": 7, "category2": 2582}
+{"id": 219931, "x": 164, "y": 95, "z": 6, "title": "Nagroda", "description": "Odbierz swoj skarb!", "category1": 7, "category2": 2582}

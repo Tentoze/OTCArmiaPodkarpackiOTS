@@ -1,0 +1,11 @@
+{"id": 185498, "x": 1065, "y": 756, "z": 7, "title": "Ankaros", "description": "Mistyczne miasto.", "category1": 6, "category2": 2158}
+{"id": 185501, "x": 338, "y": 254, "z": 7, "title": "Capital City", "description": "Stolica APO.", "category1": 6, "category2": 2158}
+{"id": 185504, "x": 1260, "y": 259, "z": 7, "title": "City of Dreams", "description": "Miasto marzen.", "category1": 6, "category2": 2158}
+{"id": 185506, "x": 143, "y": 584, "z": 6, "title": "City of The Sky", "description": "Miasto w chmurach - dostepne dla osob posiadajacych PACC.", "category1": 6, "category2": 2158}
+{"id": 185503, "x": 410, "y": 284, "z": 7, "title": "Desert City", "description": "Miasteczko pustynne.", "category1": 6, "category2": 2158}
+{"id": 185500, "x": 364, "y": 137, "z": 7, "title": "Evul", "description": "Ogolnodostepne miasto.", "category1": 6, "category2": 2158}
+{"id": 185505, "x": 379, "y": 469, "z": 7, "title": "Expgard", "description": "Miasto dostepne dla osob posiadajacych PACC.", "category1": 6, "category2": 2158}
+{"id": 185508, "x": 685, "y": 525, "z": 6, "title": "Kanion", "description": "Miasteczko na skraju kanionu.", "category1": 6, "category2": 2158}
+{"id": 185499, "x": 263, "y": 152, "z": 7, "title": "Rookgard", "description": "Pierwsze miasto jakie bedziesz mia okazje poznac.", "category1": 6, "category2": 2158}
+{"id": 185502, "x": 430, "y": 192, "z": 7, "title": "Senja", "description": "Lodowe miasteczko - 6 grudnia odwiedzane przez Swietego Mikoaja.", "category1": 6, "category2": 2158}
+{"id": 185507, "x": 186, "y": 652, "z": 7, "title": "Soran", "description": "Miasteczko, ktore odegrao wielka role w ocaleniu swiata.", "category1": 6, "category2": 2158}

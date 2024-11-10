@@ -1,0 +1,2 @@
+{"id": 185651, "x": 912, "y": 530, "z": 6, "title": "!Start", "description": "Aby otrzymac mozliwosc wykonania zadania nalezy przedostac sie przez drzwi, do ktorych pasuje tylko pomaranczowy klucz.\nKlucz ten jest zakopany gdzies w okolicach tej piramidy.", "category1": 5, "category2": 2153}
+{"id": 185652, "x": 921, "y": 611, "z": 11, "title": "Nagroda", "description": "Za pokonanie Krolowej Ots&#039;a, otrzymujemy Szafirowa Zbroje.", "category1": 5, "category2": 2153}

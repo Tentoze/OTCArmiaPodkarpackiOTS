@@ -1,0 +1,6 @@
+{"id": 185470, "x": 311, "y": 687, "z": 15, "title": "!NPC Wiezien", "description": "U wieznia nalezy zaczac wykonywanie questu.", "category1": 5, "category2": 2106}
+{"id": 185475, "x": 440, "y": 673, "z": 15, "title": "Nagrody", "description": "", "category1": 5, "category2": 2106}
+{"id": 185474, "x": 330, "y": 676, "z": 11, "title": "NPC Beliar", "description": "", "category1": 5, "category2": 2106}
+{"id": 185471, "x": 334, "y": 674, "z": 12, "title": "NPC Gronshar", "description": "", "category1": 5, "category2": 2106}
+{"id": 185473, "x": 365, "y": 133, "z": 6, "title": "NPC Johen", "description": "", "category1": 5, "category2": 2106}
+{"id": 185472, "x": 378, "y": 265, "z": 7, "title": "NPC Pirat Jack", "description": "", "category1": 5, "category2": 2106}

@@ -1,0 +1,2 @@
+{"id": 185597, "x": 114, "y": 587, "z": 8, "title": "Nagroda", "description": "Rozdzek bronia potezne demony.", "category1": 5, "category2": 2122}
+{"id": 185598, "x": 113, "y": 587, "z": 8, "title": "Nagroda", "description": "Rozdzek bronia potezne demony.", "category1": 5, "category2": 2122}

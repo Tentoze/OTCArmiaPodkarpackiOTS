@@ -1,0 +1,1 @@
+{"id": 185599, "x": 431, "y": 90, "z": 1, "title": "Nagroda", "description": "Za pokonanie wszystkich potworow czekaja cenne nagrody.", "category1": 5, "category2": 2123}

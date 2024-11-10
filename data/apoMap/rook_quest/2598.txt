@@ -1,0 +1,6 @@
+{"id": 238234, "x": 220, "y": 145, "z": 14, "title": "!NPC Stuart", "description": "Stuart zleci Ci zdobycie mao wartosciowych przedmiotow, w celu sprawdzenia czy jestes gotow zmierzyc sie z Lordem Demonow. Jesli tak, otrzymasz klucz, ktory pozwoli Ci podjac to wyzwanie.", "category1": 7, "category2": 2598}
+{"id": 238235, "x": 214, "y": 147, "z": 14, "title": "Sala nr 1", "description": "Sala dostepna od 200 poziomu doswiadczenia.", "category1": 7, "category2": 2598}
+{"id": 238236, "x": 226, "y": 147, "z": 14, "title": "Sala nr 2", "description": "Sala dostepna od 250 poziomu doswiadczenia.", "category1": 7, "category2": 2598}
+{"id": 238237, "x": 216, "y": 154, "z": 14, "title": "Sala nr 3", "description": "Sala dostepna od 300 poziomu doswiadczenia.", "category1": 7, "category2": 2598}
+{"id": 238238, "x": 225, "y": 154, "z": 14, "title": "Sala nr 4", "description": "Sala dostepna od 350 poziomu doswiadczenia.", "category1": 7, "category2": 2598}
+{"id": 238239, "x": 220, "y": 144, "z": 15, "title": "Wejscie", "description": "Otrzymany klucz, mozesz uzyc do otworzenia tych drzwi, za ktorymi znajduje sie Demon Lord Rooker.", "category1": 7, "category2": 2598}

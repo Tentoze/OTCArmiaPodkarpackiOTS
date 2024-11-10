@@ -1,0 +1,1 @@
+{"id": 219885, "x": 204, "y": 98, "z": 9, "title": "Nagroda", "description": "Aby zdobyc nagrode nalezy pokonac wiele zielonych i trujacych potworow.", "category1": 7, "category2": 2560}

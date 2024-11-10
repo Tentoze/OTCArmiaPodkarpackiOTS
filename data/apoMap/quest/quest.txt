@@ -1,0 +1,196 @@
+{"id": 202610, "x": 474, "y": 504, "z": 7, "title": "Nagroda", "description": "Quest dla poczatkujacych bohaterow, polegajacy na zabiciu kilku Slimow.", "category1": 5, "category2": 2352}
+{"id": 202613, "x": 267, "y": 469, "z": 6, "title": "Nagroda", "description": "Nic nie stoi na przeszkodzie w zdobyciu nagrody! Moze poza jednym niedzwiedziem, z ktorym nawet najmniej doswiadczony bohater sobie poradzi.", "category1": 5, "category2": 2353}
+{"id": 202618, "x": 512, "y": 464, "z": 2, "title": "Nagroda", "description": "Zdobadz wieze! Zdobadz nagrode!", "category1": 5, "category2": 2354}
+{"id": 202619, "x": 527, "y": 463, "z": 2, "title": "Nagroda", "description": "Zdobadz wieze! Zdobadz nagrode!", "category1": 5, "category2": 2355}
+{"id": 185491, "x": 503, "y": 251, "z": 8, "title": "Nagroda", "description": "Nagroda za poniesiony trud sa cenne klejnoty.", "category1": 5, "category2": 2112}
+{"id": 185492, "x": 492, "y": 260, "z": 6, "title": "Nagroda", "description": "Nagroda za poniesiony trud sa cenne klejnoty.", "category1": 5, "category2": 2112}
+{"id": 185479, "x": 396, "y": 319, "z": 9, "title": "!Wejscie", "description": "Potrzebujesz 4 osoby z minimalnym poziomem doswiadczenia 100lvl", "category1": 5, "category2": 2110}
+{"id": 185478, "x": 403, "y": 316, "z": 10, "title": "Sala z nagrodami", "description": "Mozna wybrac tylko jedna z czterech nagrod.", "category1": 5, "category2": 2110}
+{"id": 185476, "x": 396, "y": 310, "z": 9, "title": "!Wejscie", "description": "Potrzebujesz 4 osoby z minimalnym poziomem doswiadczenia 200lvl", "category1": 5, "category2": 2108}
+{"id": 185477, "x": 403, "y": 308, "z": 10, "title": "Sala z nagrodami", "description": "Mozna wybrac tylko jedna z czterech nagrod.", "category1": 5, "category2": 2108}
+{"id": 185493, "x": 273, "y": 294, "z": 10, "title": "Nagroda", "description": "W kopalniach schowano dosc cenny przedmiot.", "category1": 5, "category2": 2113}
+{"id": 185591, "x": 369, "y": 480, "z": 8, "title": "Nagroda", "description": "Potezny stwor broni dostepu do skarbow.", "category1": 5, "category2": 2138}
+{"id": 185592, "x": 367, "y": 480, "z": 8, "title": "Nagroda", "description": "Potezny stwor broni dostepu do skarbow.", "category1": 5, "category2": 2138}
+{"id": 185575, "x": 479, "y": 387, "z": 8, "title": "Nagroda", "description": "Za pokonanie szefa beholderow mozna otrzymac nagrode.", "category1": 5, "category2": 2127}
+{"id": 185576, "x": 477, "y": 387, "z": 8, "title": "Nagroda", "description": "Za pokonanie szefa beholderow mozna otrzymac nagrode.", "category1": 5, "category2": 2127}
+{"id": 219976, "x": 635, "y": 869, "z": 8, "title": "Nagroda 1", "description": "Pec zenska z pewnoscia nie pogardzi ta nagroda.", "category1": 5, "category2": 2594}
+{"id": 219977, "x": 639, "y": 868, "z": 8, "title": "Nagroda 2", "description": "Zdobywasz magiczny kapelusz!", "category1": 5, "category2": 2594}
+{"id": 185497, "x": 247, "y": 277, "z": 8, "title": "Nagroda", "description": "Czarni rycerze i nie tylko, bronia dostepu do zbroi.", "category1": 5, "category2": 2117}
+{"id": 219889, "x": 248, "y": 277, "z": 8, "title": "Nagroda", "description": "Czarni rycerze i nie tylko, bronia dostepu do spodni.", "category1": 5, "category2": 2117}
+{"id": 185593, "x": 346, "y": 310, "z": 8, "title": "!Wejscie", "description": "Nekromanci, bohaterowie oraz ogniste diaby strzega dostepu do miecza.", "category1": 5, "category2": 2119}
+{"id": 219978, "x": 345, "y": 336, "z": 9, "title": "Nagroda", "description": "Teraz mozesz nacieszyc sie swoim nowym mieczem!", "category1": 5, "category2": 2119}
+{"id": 219974, "x": 1277, "y": 488, "z": 1, "title": "!Wejscie", "description": "Bardzo prosta misja. Wystarczy isc przed siebie.", "category1": 5, "category2": 2593}
+{"id": 219975, "x": 1110, "y": 769, "z": 7, "title": "Nagroda", "description": "Nagroda moze nie jest zbyt cenna, ale moze nam sie przydac.", "category1": 5, "category2": 2593}
+{"id": 185646, "x": 1291, "y": 420, "z": 7, "title": "!Start", "description": "Nasza przygode zaczynamy tutaj. Nalezy isc ta droga, az dojdziemy do krat maej piramidy, ktora znajduje sie na samym szczycie tej wielkiej budowli.", "category1": 5, "category2": 2151}
+{"id": 219940, "x": 1263, "y": 443, "z": 5, "title": "Drzwi", "description": "Jesli chcemy je otworzyc, musimy miec om. Inaczej nie uda nam sie wejsc.", "category1": 5, "category2": 2151}
+{"id": 219938, "x": 1267, "y": 447, "z": 1, "title": "Dzwignia 1", "description": "Aby dostac sie do srodka, musimy przeciagnac dzwignie za pomoca mioty. Wtedy kraty znikna i bedziemy mogli wejsc.", "category1": 5, "category2": 2151}
+{"id": 219939, "x": 1265, "y": 444, "z": 4, "title": "Dzwignia 2", "description": "Aby otworzyc drzwi obok, nalezy przeciagnac dzwignie za pomoca mioty.", "category1": 5, "category2": 2151}
+{"id": 219942, "x": 1263, "y": 444, "z": 6, "title": "Dzwignia 3", "description": "Po przeciagnieciu tej dzwigni, bedziemy juz tylko o krok od zdobycia nagrody. Jednak nie bedzie atwo...", "category1": 5, "category2": 2151}
+{"id": 185647, "x": 1275, "y": 441, "z": 6, "title": "Nagroda", "description": "Poniesione trudy rekompensuje Ponace Serce - najlepsza tarcza na serwerze.", "category1": 5, "category2": 2151}
+{"id": 219941, "x": 1271, "y": 441, "z": 5, "title": "Piec", "description": "Zapal pod piecem, zrobio sie zimno...", "category1": 5, "category2": 2151}
+{"id": 185494, "x": 524, "y": 321, "z": 3, "title": "Nagroda", "description": "W gownej wiezy zamkowej, czekaja nagrody!", "category1": 5, "category2": 2114}
+{"id": 219890, "x": 525, "y": 321, "z": 3, "title": "Nagroda", "description": "W gownej wiezy zamkowej, czekaja nagrody!", "category1": 5, "category2": 2114}
+{"id": 219934, "x": 699, "y": 197, "z": 7, "title": "!NPC Pustelnik", "description": "Mozemy wyswiadczyc pustelnikowi pewna przysuge, za ktora dostaniemy przedmiot, ktory moze nam sie przydac.", "category1": 5, "category2": 2584}
+{"id": 219937, "x": 716, "y": 187, "z": 9, "title": "Nagroda", "description": "Za pokonanie Krola Ots&#039;a, otrzymujesz Krysztaowa Strzae, ktora nigdy sie nie konczy!", "category1": 5, "category2": 2584}
+{"id": 219936, "x": 704, "y": 189, "z": 9, "title": "Solo Room", "description": "Jesli jestes paladynem, mozesz powalczyc z Krolem Ots&#039;a. Jezeli uda Ci sie go pokonac, otrzymasz nagrode!", "category1": 5, "category2": 2584}
+{"id": 219935, "x": 698, "y": 195, "z": 7, "title": "Ukryte wejscie", "description": "Przedmiot, ktory otrzymalismy od pustelnika, uzywamy na szafie.", "category1": 5, "category2": 2584}
+{"id": 185655, "x": 1090, "y": 561, "z": 7, "title": "!Start", "description": "Aby dostac sie do sali z Omenem, musimy zanurzyc sie w czarnej mazi...", "category1": 5, "category2": 2157}
+{"id": 185656, "x": 1095, "y": 570, "z": 8, "title": "Nagroda", "description": "Za pokonanie jednego z najpotezniejszych potworow na serwerze, otrzymujemy bardzo cenny przedmiot.", "category1": 5, "category2": 2157}
+{"id": 185606, "x": 289, "y": 388, "z": 7, "title": "Nagroda", "description": "Aby otrzymac nagrody nalezy pokonac wszystkie potwory w zamku.", "category1": 5, "category2": 2139}
+{"id": 185607, "x": 299, "y": 387, "z": 7, "title": "Nagroda", "description": "Aby otrzymac nagrody nalezy pokonac wszystkie potwory w zamku.", "category1": 5, "category2": 2139}
+{"id": 185612, "x": 386, "y": 291, "z": 10, "title": "Nagrody", "description": "Po zabiciu wszystkich potworow znajdujacych sie w sali, otrzymamy trzy nagrody.", "category1": 5, "category2": 2141}
+{"id": 185589, "x": 361, "y": 422, "z": 8, "title": "Nagroda", "description": "Potezny boss Demonow - Orshabaal - broni cennego skarbu.", "category1": 5, "category2": 2137}
+{"id": 185590, "x": 359, "y": 422, "z": 8, "title": "Nagroda", "description": "Potezny boss Demonow - Orshabaal - broni cennego skarbu.", "category1": 5, "category2": 2137}
+{"id": 185608, "x": 367, "y": 307, "z": 9, "title": "Nagroda", "description": "Wojownicy, ktorzy pokonaja potezne demony moga siegnac po nagrody.", "category1": 5, "category2": 2140}
+{"id": 185609, "x": 367, "y": 312, "z": 9, "title": "Nagroda", "description": "Wojownicy, ktorzy pokonaja potezne demony moga siegnac po nagrody.", "category1": 5, "category2": 2140}
+{"id": 185610, "x": 361, "y": 312, "z": 9, "title": "Nagroda", "description": "Wojownicy, ktorzy pokonaja potezne demony moga siegnac po nagrody.", "category1": 5, "category2": 2140}
+{"id": 185611, "x": 361, "y": 306, "z": 9, "title": "Nagroda", "description": "Wojownicy, ktorzy pokonaja potezne demony moga siegnac po nagrody.", "category1": 5, "category2": 2140}
+{"id": 185618, "x": 174, "y": 456, "z": 14, "title": "!Start", "description": "Aby podjac probe pokonania potworow strzegacych smoczego hemu nalezy przekopac tunel. Wymagane sa odpowiednie narzedzia oraz 150 poziom doswiadczenia.", "category1": 5, "category2": 2147}
+{"id": 185619, "x": 161, "y": 456, "z": 15, "title": "Kolejny etap", "description": "W tym pokoju trzeba pokonac krola ots&#039;a i uzyc wczesniej juz wymaganych narzedzi aby dostac sie do teleportu.", "category1": 5, "category2": 2147}
+{"id": 185620, "x": 108, "y": 515, "z": 9, "title": "Nagroda", "description": "Aby wziac nagrode ze skrzyni trzeba pokonac krola ots&#039;a.", "category1": 5, "category2": 2147}
+{"id": 219944, "x": 65, "y": 386, "z": 10, "title": "!Wejscie", "description": "Zmierz sie ze Smoczymi Lordami i zdobadz nagrody!", "category1": 5, "category2": 2586}
+{"id": 219945, "x": 62, "y": 381, "z": 11, "title": "Nagroda", "description": "Odbierz swoj Ponacy Miecz!", "category1": 5, "category2": 2586}
+{"id": 219946, "x": 65, "y": 381, "z": 11, "title": "Nagroda", "description": "Odbierz swoj Czerwony Paszcz!", "category1": 5, "category2": 2586}
+{"id": 185577, "x": 310, "y": 491, "z": 8, "title": "Nagroda", "description": "Lider smokow broni cennych nagrod.", "category1": 5, "category2": 2128}
+{"id": 185578, "x": 308, "y": 491, "z": 8, "title": "Nagroda", "description": "Lider smokow broni cennych nagrod.", "category1": 5, "category2": 2128}
+{"id": 185579, "x": 481, "y": 489, "z": 8, "title": "Nagroda", "description": "Stwory zyjace w kopalniach bronia cennych nagrod.", "category1": 5, "category2": 2129}
+{"id": 185580, "x": 479, "y": 489, "z": 8, "title": "Nagroda", "description": "Stwory zyjace w kopalniach bronia cennych nagrod.", "category1": 5, "category2": 2129}
+{"id": 185495, "x": 558, "y": 305, "z": 4, "title": "Nagroda", "description": "W siedzibie elfow ukryto mot. Aby go zdobyc nalezy pokonac wszystkich przedstawicieli elfiej rasy.", "category1": 5, "category2": 2115}
+{"id": 185581, "x": 419, "y": 503, "z": 8, "title": "Nagroda", "description": "Za pokonanie mitycznych elfow czeka nagroda.", "category1": 5, "category2": 2130}
+{"id": 185582, "x": 417, "y": 503, "z": 8, "title": "Nagroda", "description": "Za pokonanie mitycznych elfow czeka nagroda.", "category1": 5, "category2": 2130}
+{"id": 219924, "x": 111, "y": 607, "z": 9, "title": "!Wejscie", "description": "Postaraj sie, jesli chcesz zdobyc nagrody. Demony atwo ich nie oddadza...", "category1": 5, "category2": 2144}
+{"id": 185614, "x": 131, "y": 644, "z": 10, "title": "Nagroda", "description": "Aby zdobyc spodnie, nalezy pokonac hordy demonow znajdujacych sie w poblizu tego miejsca oraz dwoch bossow Demonow.", "category1": 5, "category2": 2144}
+{"id": 185615, "x": 128, "y": 644, "z": 10, "title": "Nagroda", "description": "Aby zdobyc zbroje, nalezy pokonac hordy demonow znajdujacych sie w poblizu tego miejsca oraz dwoch bossow Demonow.", "category1": 5, "category2": 2144}
+{"id": 202621, "x": 263, "y": 618, "z": 6, "title": "Nagroda", "description": "Zabij smoki i zdobadz nagrode! Jednak badz ostrozny, smoki na pewno nie oddadza swego skarbu bez walki!", "category1": 5, "category2": 2356}
+{"id": 219927, "x": 1191, "y": 400, "z": 7, "title": "!Wejscie", "description": "Zmierz sie z rasa Elfow i zdobadz nagrody!", "category1": 5, "category2": 2580}
+{"id": 219928, "x": 1165, "y": 412, "z": 8, "title": "Nagroda", "description": "Zdobadz fioletowy kryszta!", "category1": 5, "category2": 2580}
+{"id": 219929, "x": 1175, "y": 408, "z": 8, "title": "Nagroda", "description": "Zdobadz zoty kryszta!", "category1": 5, "category2": 2580}
+{"id": 185583, "x": 253, "y": 489, "z": 8, "title": "Nagroda", "description": "Aby otrzymac nagrode, nalezy pokonac hordy ogromnych pajakow.", "category1": 5, "category2": 2131}
+{"id": 185584, "x": 251, "y": 489, "z": 8, "title": "Nagroda", "description": "Aby otrzymac nagrode, nalezy pokonac hordy ogromnych pajakow.", "category1": 5, "category2": 2131}
+{"id": 219982, "x": 88, "y": 332, "z": 7, "title": "!Wejscie", "description": "Przyjdzie nam sie zmierzyc z masa Demonicznych Szkieletow. Pomocnym moze sie okazac pierscien niewidzialnosci.", "category1": 5, "category2": 2597}
+{"id": 219983, "x": 91, "y": 297, "z": 8, "title": "Nagroda", "description": "jak na poczatek, zbroja moze byc.", "category1": 5, "category2": 2597}
+{"id": 185594, "x": 378, "y": 253, "z": 9, "title": "Nagroda", "description": "Za pokonanie wszystkich wrogow mozna otrzymac cenne nagrody.", "category1": 5, "category2": 2120}
+{"id": 185595, "x": 371, "y": 253, "z": 9, "title": "Nagroda", "description": "Za pokonanie wszystkich wrogow mozna otrzymac cenne nagrody.", "category1": 5, "category2": 2120}
+{"id": 185596, "x": 400, "y": 382, "z": 8, "title": "Nagroda", "description": "Zielone stwory bronia cennej tarczy.", "category1": 5, "category2": 2121}
+{"id": 185601, "x": 406, "y": 95, "z": 1, "title": "Nagroda", "description": "Lider hydr broni miecza o dosc niezwykych wasciwosciach.", "category1": 5, "category2": 2125}
+{"id": 219969, "x": 1205, "y": 585, "z": 7, "title": "Nagroda", "description": "To chyba jakis zart, tak?\nNagroda nie jest warta naszego zachodu. Coz, czasem tak bywa...", "category1": 5, "category2": 2591}
+{"id": 219891, "x": 465, "y": 476, "z": 5, "title": "Nagroda", "description": "Do zdobycia klucz, ktory otwiera pewne drzwi w miescie Expgard. Owe drzwi znajduja sie niedaleko Cody&#039;ego.", "category1": 5, "category2": 2572}
+{"id": 185599, "x": 431, "y": 90, "z": 1, "title": "Nagroda", "description": "Za pokonanie wszystkich potworow czekaja cenne nagrody.", "category1": 5, "category2": 2123}
+{"id": 219951, "x": 267, "y": 220, "z": 6, "title": "!NPC Rodo", "description": "Rodo zleci nam zadanie do wykonania, ktore do atwych nie nalezy. Jednak na jednym zadaniu sie nie skonczy. Bedziemy musieli np. zdobyc dla niego rune, pomoc jego bratu i nie tylko...", "category1": 5, "category2": 2589}
+{"id": 219960, "x": 693, "y": 663, "z": 7, "title": "Labirynt 1", "description": "Wejscie do labiryntu pierwszego.", "category1": 5, "category2": 2589}
+{"id": 219961, "x": 590, "y": 773, "z": 8, "title": "Labirynt 2", "description": "Wejscie do labiryntu drugiego, w ktorym uwieziony jest Aqar.\nLabirynt ten jest bardzo nieprzyjemny i dosc niebezpieczny. Nie wchodz do niego, jesli nie jestes na to gotowy!", "category1": 5, "category2": 2589}
+{"id": 219966, "x": 636, "y": 980, "z": 11, "title": "Nagroda Gowna", "description": "Magiczny Topor jest juz Twoj!", "category1": 5, "category2": 2589}
+{"id": 219957, "x": 1215, "y": 271, "z": 8, "title": "Nagroda Lawa", "description": "Tutaj zdobywamy fiolke lawy.\nTylko jej nie wylej, ani tym bardziej nie wypij! ", "category1": 5, "category2": 2589}
+{"id": 219962, "x": 532, "y": 908, "z": 10, "title": "NPC Aqar", "description": "W tym pomieszczeniu znajduje sie Aqar, brat Roda. Pomoz mu sie wydostac z tego labiryntu!", "category1": 5, "category2": 2589}
+{"id": 219954, "x": 922, "y": 165, "z": 3, "title": "NPC Ganxale", "description": "Ganxale powie nam jak zdobyc fiolke lawy, jednak nie zdradzi tego za darmo. Najpierw bedziemy musieli cos dla niego zrobic.", "category1": 5, "category2": 2589}
+{"id": 219953, "x": 1078, "y": 756, "z": 7, "title": "NPC Punisher", "description": "Punisher waesa sie po caym miescie Ankaros. Musisz go poszukac!", "category1": 5, "category2": 2589}
+{"id": 219952, "x": 651, "y": 372, "z": 6, "title": "NPC Quiver", "description": "Aby dostac sie do Quiver&#039;a, nalezy miec ze soba ciezka maczete, by moc sciac zarosla zagradzajace wejscie do jaskini.\nQuiver wyglada na dosc sympatycznego staruszka, jednak nie daj sie zwiesc pozorom!", "category1": 5, "category2": 2589}
+{"id": 219958, "x": 217, "y": 273, "z": 6, "title": "NPC Robin z Doliny lalek", "description": "Kup mape labiryntu za jedyne 500 krysztaowych monet, z pewnoscia sie nam przyda!", "category1": 5, "category2": 2589}
+{"id": 219963, "x": 452, "y": 756, "z": 9, "title": "NPC Sonia", "description": "Sonia zajmuje sie skupem lepszych przedmiotow, jednak posiada ona rowniez na sprzedaz Mot Hefajstosa.", "category1": 5, "category2": 2589}
+{"id": 219959, "x": 585, "y": 773, "z": 8, "title": "NPC Vordor", "description": "Vordor - straznik wejscia do labiryntu, mimo tego, ze jest mumia i nie wyglada raczej przyjemnie, moze nas przepuscic jesli mamy mape, wczesniej zakupiona u Robina.", "category1": 5, "category2": 2589}
+{"id": 219964, "x": 637, "y": 1006, "z": 10, "title": "Ofiara", "description": "Aby przejsc, skadamy w ofierze Mot Hefajstosa i ciagniemy za dzwignie.", "category1": 5, "category2": 2589}
+{"id": 219956, "x": 1220, "y": 287, "z": 8, "title": "Solo Room 1", "description": "Bedziemy musieli sie zmierzyc z dosc poteznym potworem, ktory na domiar zego potrafi sie sklonowac!", "category1": 5, "category2": 2589}
+{"id": 219965, "x": 637, "y": 995, "z": 10, "title": "Solo Room 2", "description": "To zadanie mozemy wykonac sami, jednak lepiej nie ryzykowac i zabrac kogos ze soba. Jak to mowia: We dwojke zawsze razniej. Tym bardziej, ze waszym przeciwnikiem nie bedzie byle kto...", "category1": 5, "category2": 2589}
+{"id": 219955, "x": 1202, "y": 274, "z": 7, "title": "Ukryte wejscie", "description": "Wejscie znajduje sie pod skrzynia.", "category1": 5, "category2": 2589}
+{"id": 185602, "x": 299, "y": 263, "z": 10, "title": "Nagroda", "description": "Wojownicy, ktorym niestraszne potyczki z duza iloscia potworow moga podjac probe zdobycia pewnego miecza.", "category1": 5, "category2": 2134}
+{"id": 185654, "x": 1250, "y": 409, "z": 7, "title": "!NPC Szafir", "description": "U szafira za drobna opata mozemy nadac dodatkowe wasciwosci zwykemu sapphire helmet.", "category1": 5, "category2": 2155}
+{"id": 185597, "x": 114, "y": 587, "z": 8, "title": "Nagroda", "description": "Rozdzek bronia potezne demony.", "category1": 5, "category2": 2122}
+{"id": 185598, "x": 113, "y": 587, "z": 8, "title": "Nagroda", "description": "Rozdzek bronia potezne demony.", "category1": 5, "category2": 2122}
+{"id": 185642, "x": 895, "y": 815, "z": 8, "title": "!Start", "description": "Aby przejsc do wasciwej czesci zadania nalezy posiadac wasny krysztaowy klucz oraz 666 poziom doswiadczenia.", "category1": 5, "category2": 2149}
+{"id": 185636, "x": 901, "y": 853, "z": 10, "title": "Bone", "description": "", "category1": 5, "category2": 2149}
+{"id": 185638, "x": 1031, "y": 631, "z": 14, "title": "Life Crystal", "description": "", "category1": 5, "category2": 2149}
+{"id": 185639, "x": 933, "y": 609, "z": 4, "title": "Mysterious Fetish", "description": "", "category1": 5, "category2": 2149}
+{"id": 185643, "x": 886, "y": 731, "z": 10, "title": "Nagroda", "description": "Po zabiciu wszystkich potworow mozemy zabrac ze skrzyni potezny przedmiot o ogromnych wasciwosciach magicznych.", "category1": 5, "category2": 2149}
+{"id": 185637, "x": 846, "y": 760, "z": 13, "title": "Orb", "description": "", "category1": 5, "category2": 2149}
+{"id": 185641, "x": 960, "y": 789, "z": 6, "title": "Otarz", "description": "", "category1": 5, "category2": 2149}
+{"id": 185640, "x": 928, "y": 799, "z": 8, "title": "Wejscie do tajemnego pokoju", "description": "", "category1": 5, "category2": 2149}
+{"id": 219895, "x": 674, "y": 226, "z": 8, "title": "!Wejscie", "description": "Wejscie do pomieszczenia z Demonami.", "category1": 5, "category2": 2576}
+{"id": 219896, "x": 662, "y": 260, "z": 8, "title": "Nagroda", "description": "Pokonaj Demony i zdobadz magiczny pierscien, ktory podwyzszy Twoj poziom magiczny!", "category1": 5, "category2": 2576}
+{"id": 185585, "x": 419, "y": 454, "z": 8, "title": "Nagroda", "description": "Przywodca minotaurow broni cennych skarbow.", "category1": 5, "category2": 2132}
+{"id": 185586, "x": 417, "y": 454, "z": 8, "title": "Nagroda", "description": "Przywodca minotaurow broni cennych skarbow.", "category1": 5, "category2": 2132}
+{"id": 219887, "x": 534, "y": 260, "z": 7, "title": "Nagroda", "description": "Sprobuj swoich si i staw czoa przeroznym potworom czyhajacym w tym dziwnym budynku.", "category1": 5, "category2": 2571}
+{"id": 219979, "x": 558, "y": 115, "z": 8, "title": "!Wejscie", "description": "Gdy juz wejdziesz, wiedz o tym, ze mozesz nie wrocic juz ta sama droga...", "category1": 5, "category2": 2595}
+{"id": 219980, "x": 599, "y": 124, "z": 9, "title": "Nagroda", "description": "Przyszo nam sie zmierzyc ze spora iloscia Orkow. Jednak zbroja, ktora zdobedziemy, jest chyba tego warta.", "category1": 5, "category2": 2595}
+{"id": 185587, "x": 481, "y": 442, "z": 8, "title": "Nagroda", "description": "Za pokonanie lidera orkow mozna otrzymac cenne nagrody.", "category1": 5, "category2": 2133}
+{"id": 185588, "x": 483, "y": 442, "z": 8, "title": "Nagroda", "description": "Za pokonanie lidera orkow mozna otrzymac cenne nagrody.", "category1": 5, "category2": 2133}
+{"id": 219892, "x": 535, "y": 622, "z": 12, "title": "Nagrody", "description": "Zabij wszystkie Demony, oraz ich boss&#039;a Orshabaal&#039;a, a otrzymasz 3 cenne nagrody!", "category1": 5, "category2": 2573}
+{"id": 185483, "x": 240, "y": 295, "z": 9, "title": "!Start", "description": "Osoba, ktora pragnie wykonac OTS quest musi posiadac co najmniej 150 poziom doswiadczenia.", "category1": 5, "category2": 2109}
+{"id": 185484, "x": 365, "y": 292, "z": 10, "title": "Nagrody", "description": "Podroznik pokonawszy wszystkie przeszkody otrzyma wszystkie trzy nagrody.", "category1": 5, "category2": 2109}
+{"id": 185644, "x": 706, "y": 266, "z": 1, "title": "!NPC Starzec", "description": "Starzec za skromna sumke udziela dostepu do wasciwej czesci zadania.", "category1": 5, "category2": 2150}
+{"id": 185645, "x": 728, "y": 251, "z": 7, "title": "Nagroda", "description": "Nagroda za trudy jest bardzo cenna zbroja posiadajaca ciekawe wasciwosci magiczne.", "category1": 5, "category2": 2150}
+{"id": 219897, "x": 1425, "y": 228, "z": 3, "title": "!NPC Salim", "description": "U Salim&#039;a mozemy nie tylko kupic amulet Starlight, ale rowniez zrobic pewna misje, w ktorej nagrodami sa: Mozliwosc tworzenia specjalnych amuletow, oraz dostep do terenow z Ward&#039;ami.", "category1": 5, "category2": 2577}
+{"id": 219899, "x": 1433, "y": 413, "z": 12, "title": "Dzwignia 1", "description": "Dzwignia usuwajaca magiczna sciane.", "category1": 5, "category2": 2577}
+{"id": 219900, "x": 1428, "y": 471, "z": 12, "title": "Dzwignia 2", "description": "Wejscie do pomieszczenia z poteznymi potworami. Jesli Ci zycie mie, nie probuj wchodzic sam.", "category1": 5, "category2": 2577}
+{"id": 219901, "x": 1412, "y": 482, "z": 12, "title": "Dzwignia 3", "description": "Wejscie do pomieszczenia z nagroda.", "category1": 5, "category2": 2577}
+{"id": 219898, "x": 1378, "y": 445, "z": 12, "title": "Klucz", "description": "Potrzebny, aby otworzyc pewne drzwi...", "category1": 5, "category2": 2577}
+{"id": 219902, "x": 1400, "y": 483, "z": 13, "title": "Nagroda Egipcian Amulet", "description": "Zdobywasz Egipcian Amulet!", "category1": 5, "category2": 2577}
+{"id": 219922, "x": 1386, "y": 142, "z": 7, "title": "Wejscie na resp", "description": "Wejscie do terenow z Ward&#039;ami. Badz ostrozny! Niepozorne, lecz bardzo niebezpieczne stworzenia!", "category1": 5, "category2": 2577}
+{"id": 185600, "x": 407, "y": 366, "z": 9, "title": "Nagroda", "description": "Za pokonanie starozytnych faraonow mozna wybrac jedna z nagrod.", "category1": 5, "category2": 2124}
+{"id": 219926, "x": 347, "y": 355, "z": 3, "title": "Nagroda", "description": "Nagroda jest zaledwie 1 platinum coin. Zawsze to jednak cos...", "category1": 5, "category2": 2579}
+{"id": 219947, "x": 1165, "y": 617, "z": 8, "title": "!Wejscie", "description": "Misja raczej prosta. Wejdz, zabij wszystkie potwory po drodze i odbierz nagrody.", "category1": 5, "category2": 2587}
+{"id": 219948, "x": 1258, "y": 642, "z": 9, "title": "Nagrody", "description": "Odbierz, co sie Tobie nalezy!", "category1": 5, "category2": 2587}
+{"id": 185621, "x": 693, "y": 665, "z": 4, "title": "!NPC Rabin", "description": "Rabin moze nam pomoc w wykonaniu tego questa.", "category1": 5, "category2": 2148}
+{"id": 185631, "x": 660, "y": 774, "z": 9, "title": "Dokument", "description": "Dokument potrzebny, aby okazac go Straznikowi.", "category1": 5, "category2": 2148}
+{"id": 185623, "x": 582, "y": 728, "z": 10, "title": "Jaja Hydr", "description": "Musimy zabrac z gniazda jajo Hydry.", "category1": 5, "category2": 2148}
+{"id": 185632, "x": 693, "y": 662, "z": 7, "title": "Labirynt", "description": "Wejscie do labiryntu.", "category1": 5, "category2": 2148}
+{"id": 185627, "x": 557, "y": 843, "z": 8, "title": "NPC Cobriana", "description": "Cobriana niewatpliwie posiada informacje, ktore sa niezbedne do wykonania questa.", "category1": 5, "category2": 2148}
+{"id": 185629, "x": 648, "y": 802, "z": 6, "title": "NPC Monkan", "description": "Ta mapa moze nam pomoc w wykonaniu zadania.", "category1": 5, "category2": 2148}
+{"id": 185628, "x": 377, "y": 264, "z": 7, "title": "NPC Pirat Jack", "description": "U tego pirata mozemy dostac jeden z przedmiotow, ktory jest niezbedny do wykonania zadania.", "category1": 5, "category2": 2148}
+{"id": 185626, "x": 660, "y": 806, "z": 7, "title": "NPC Snaken", "description": "Snaken niewatpliwie posiada informacje, ktore sa niezbedne do wykonania questa.", "category1": 5, "category2": 2148}
+{"id": 185633, "x": 669, "y": 654, "z": 8, "title": "NPC Straznik", "description": "Po okazaniu odpowiedniego dokumentu straznikowi, moze on nas przepuscic do tajemnych korytarzy labiryntu.", "category1": 5, "category2": 2148}
+{"id": 185635, "x": 476, "y": 765, "z": 7, "title": "NPC Szaleniec", "description": "W zamian za oddana przysuge otrzymamy mozliwosc dostepu do tajemnych respow.", "category1": 5, "category2": 2148}
+{"id": 185622, "x": 566, "y": 713, "z": 7, "title": "Osada Hydr", "description": "Aby zdobyc jeden z wymaganych przedmiotow trzeba udac sie do osady Hydr.", "category1": 5, "category2": 2148}
+{"id": 185624, "x": 505, "y": 650, "z": 7, "title": "Osada jaszczurow", "description": "Aby zdobyc jeden z wymaganych przedmiotow trzeba udac sie do osady jaszczurow.", "category1": 5, "category2": 2148}
+{"id": 185634, "x": 618, "y": 728, "z": 8, "title": "Otarz", "description": "", "category1": 5, "category2": 2148}
+{"id": 185625, "x": 540, "y": 623, "z": 8, "title": "Sentinel Shield", "description": "", "category1": 5, "category2": 2148}
+{"id": 185630, "x": 660, "y": 773, "z": 6, "title": "Teleporty", "description": "Ostroznie wybieraj teleporty! Jesli zle trafisz, nie w ten teleport - ZGINIESZ!", "category1": 5, "category2": 2148}
+{"id": 202611, "x": 129, "y": 420, "z": 7, "title": "!NPC David", "description": "Bez pomocy Davida nie rozpoczniemy questa.", "category1": 5, "category2": 2156}
+{"id": 202617, "x": 684, "y": 438, "z": 1, "title": "Finalny otarz", "description": "Tutaj nalezy zozyc ostatnia ofiare, za ktora otrzymamy wasciwa nagrode z questa.", "category1": 5, "category2": 2156}
+{"id": 202612, "x": 1060, "y": 495, "z": 5, "title": "NPC Katius", "description": "Katius w zamian za zozona ofiare podaruje nam pewien cenny przedmiot.", "category1": 5, "category2": 2156}
+{"id": 202614, "x": 417, "y": 309, "z": 7, "title": "Otarz I", "description": "", "category1": 5, "category2": 2156}
+{"id": 202615, "x": 933, "y": 432, "z": 1, "title": "Otarz II", "description": "", "category1": 5, "category2": 2156}
+{"id": 202616, "x": 497, "y": 808, "z": 1, "title": "Otarz III", "description": "", "category1": 5, "category2": 2156}
+{"id": 219894, "x": 60, "y": 433, "z": 10, "title": "Nagroda", "description": "Pokonaj bestie i zdobadz cudowny pierscien, ktory po zaozeniu zagwarantuje Ci lepszy loot z potworow!", "category1": 5, "category2": 2575}
+{"id": 202622, "x": 368, "y": 84, "z": 5, "title": "!NPC Santorr", "description": "Mozemy u niego wykonac wiele przeroznych misji. Nagrody sa tego warte!", "category1": 5, "category2": 2358}
+{"id": 202623, "x": 1032, "y": 559, "z": 7, "title": "Arena", "description": "Miejsce wykonania jednej z misji.", "category1": 5, "category2": 2358}
+{"id": 219973, "x": 1033, "y": 544, "z": 7, "title": "Jedna z nagrod", "description": "Jedna z wielu nagrod misji Santorr&#039;a. Tutaj mozemy zdobyc Eagle Shield.", "category1": 5, "category2": 2358}
+{"id": 202625, "x": 1374, "y": 244, "z": 3, "title": "NPC Coorvaah", "description": "Coorvaah prowadzi sklep dostepny tylko dla osob, ktore wypeniy misje &#039;Last bonus&#039; oraz &#039;Sklep&#039; u Santorr&#039;a. Sklep ten zawiera bardzo interesujacy asortyment.", "category1": 5, "category2": 2358}
+{"id": 202624, "x": 1018, "y": 554, "z": 7, "title": "NPC Pustelnik Ahmed", "description": "Ahmed pomaga w niejednej misji tego zadania. Niestety jak to pustelnik - lubi wedrowac. Moze znajdowac sie na caej pustyni woko miasta Ankaros.", "category1": 5, "category2": 2358}
+{"id": 185651, "x": 912, "y": 530, "z": 6, "title": "!Start", "description": "Aby otrzymac mozliwosc wykonania zadania nalezy przedostac sie przez drzwi, do ktorych pasuje tylko pomaranczowy klucz.\nKlucz ten jest zakopany gdzies w okolicach tej piramidy.", "category1": 5, "category2": 2153}
+{"id": 185652, "x": 921, "y": 611, "z": 11, "title": "Nagroda", "description": "Za pokonanie Krolowej Ots&#039;a, otrzymujemy Szafirowa Zbroje.", "category1": 5, "category2": 2153}
+{"id": 185648, "x": 524, "y": 167, "z": 8, "title": "!Start", "description": "", "category1": 5, "category2": 2152}
+{"id": 185650, "x": 570, "y": 216, "z": 11, "title": "Nagroda", "description": "W nagrode za wykonanie caego zadania otrzymujemy Sapphire Helmet.", "category1": 5, "category2": 2152}
+{"id": 185649, "x": 540, "y": 206, "z": 10, "title": "Wejscie do pokoju z potworami", "description": "Aby dostac sie do wasciwej czesci zadania potrzebna bedzie druzyna skadajaca sie z czterech osob o roznych profesjach posiadajacych co najmniej 300 poziom doswiadczenia.", "category1": 5, "category2": 2152}
+{"id": 219925, "x": 617, "y": 184, "z": 10, "title": "Zegarek", "description": "Moze sie przydac...", "category1": 5, "category2": 2152}
+{"id": 185653, "x": 1251, "y": 409, "z": 7, "title": "!NPC Szafir", "description": "Szafir chetnie zamieni nogawice za bardzo cenny klejnot.", "category1": 5, "category2": 2154}
+{"id": 219967, "x": 456, "y": 158, "z": 8, "title": "!Start", "description": "Aby moc przejsc, a dokadniej usunac magiczna sciane, nalezy przeciagnac dzwignie.", "category1": 5, "category2": 2590}
+{"id": 219968, "x": 460, "y": 147, "z": 9, "title": "Nagroda", "description": "Mozemy odebrac nagrode. To nie byo zbyt trudne, prawda?", "category1": 5, "category2": 2590}
+{"id": 219981, "x": 351, "y": 227, "z": 9, "title": "Nagrody", "description": "Jesli nie poszczescio nam sie ze zdobyciem ekwipunku na Rooku, mozemy wstapic tutaj, pozabijac kilka Slim&#039;ow i zabrac nagrody. \nJak sie zapewne domyslasz, nagrody nie sa zbyt cenne.", "category1": 5, "category2": 2596}
+{"id": 185480, "x": 356, "y": 58, "z": 9, "title": "!NPC Luminela", "description": "U Lumineli musisz kupic zoty klucz niezbedny do wykonania questa.", "category1": 5, "category2": 2107}
+{"id": 219886, "x": 339, "y": 89, "z": 7, "title": "Bone Key", "description": "Klucz potrzebny, aby dostac sie do NPC Luminela.", "category1": 5, "category2": 2107}
+{"id": 185482, "x": 439, "y": 129, "z": 8, "title": "Nagroda", "description": "", "category1": 5, "category2": 2107}
+{"id": 185481, "x": 438, "y": 158, "z": 7, "title": "Wejscie", "description": "Przez te drzwi dostaniesz sie do wasciwej czesci questa.", "category1": 5, "category2": 2107}
+{"id": 219949, "x": 403, "y": 375, "z": 11, "title": "!Wejscie", "description": "Jesli chcesz wykonac to zadanie, musisz posiadac minimum 150 poziom doswiadczenia.", "category1": 5, "category2": 2588}
+{"id": 219950, "x": 403, "y": 320, "z": 11, "title": "Nagroda", "description": "Jesli jestes Druidem lub Magiem, ta rozdzka z pewnoscia Ci sie przyda.", "category1": 5, "category2": 2588}
+{"id": 185603, "x": 417, "y": 273, "z": 8, "title": "Nagroda", "description": "Aby zdobyc stalowe buty nalezy pokonac wszystkie potwory.", "category1": 5, "category2": 2135}
+{"id": 185573, "x": 527, "y": 403, "z": 8, "title": "Nagroda", "description": "Na wojownikow, ktorzy pokonaja szefa kamiennych stworow czeka nagroda.", "category1": 5, "category2": 2118}
+{"id": 185574, "x": 525, "y": 403, "z": 8, "title": "Nagroda", "description": "Na wojownikow, ktorzy pokonaja szefa kamiennych stworow czeka nagroda.", "category1": 5, "category2": 2118}
+{"id": 185485, "x": 357, "y": 253, "z": 7, "title": "Nagroda", "description": "Kazdy nowy mieszkaniec Mainlandu moze otrzymac nagrode w postaci 3 krysztaowych monet. Nagroda moze zostac odebrana w wiekszosci miast.", "category1": 5, "category2": 2111}
+{"id": 185486, "x": 353, "y": 136, "z": 8, "title": "Nagroda", "description": "Kazdy nowy mieszkaniec Mainlandu moze otrzymac nagrode w postaci 3 krysztaowych monet. Nagroda moze zostac odebrana w wiekszosci miast.", "category1": 5, "category2": 2111}
+{"id": 185487, "x": 347, "y": 459, "z": 6, "title": "Nagroda", "description": "Kazdy nowy mieszkaniec Mainlandu moze otrzymac nagrode w postaci 3 krysztaowych monet. Nagroda moze zostac odebrana w wiekszosci miast.", "category1": 5, "category2": 2111}
+{"id": 185488, "x": 1127, "y": 765, "z": 6, "title": "Nagroda", "description": "Kazdy nowy mieszkaniec Mainlandu moze otrzymac nagrode w postaci 3 krysztaowych monet. Nagroda moze zostac odebrana w wiekszosci miast.", "category1": 5, "category2": 2111}
+{"id": 185489, "x": 1272, "y": 232, "z": 6, "title": "Nagroda", "description": "Kazdy nowy mieszkaniec Mainlandu moze otrzymac nagrode w postaci 3 krysztaowych monet. Nagroda moze zostac odebrana w wiekszosci miast.", "category1": 5, "category2": 2111}
+{"id": 185490, "x": 115, "y": 561, "z": 6, "title": "Nagroda", "description": "Kazdy nowy mieszkaniec Mainlandu moze otrzymac nagrode w postaci 3 krysztaowych monet. Nagroda moze zostac odebrana w wiekszosci miast.", "category1": 5, "category2": 2111}
+{"id": 219888, "x": 186, "y": 642, "z": 7, "title": "Nagroda", "description": "Kazdy nowy mieszkaniec Mainlandu moze otrzymac nagrode w postaci 3 krysztaowych monet. Nagroda moze zostac odebrana w wiekszosci miast.", "category1": 5, "category2": 2111}
+{"id": 185604, "x": 272, "y": 284, "z": 9, "title": "Nagroda", "description": "Za pokonanie magow czekaja nagrody.", "category1": 5, "category2": 2136}
+{"id": 185605, "x": 272, "y": 302, "z": 9, "title": "Nagroda", "description": "Za pokonanie magow czekaja nagrody.", "category1": 5, "category2": 2136}
+{"id": 185613, "x": 247, "y": 409, "z": 9, "title": "Nagroda", "description": "Po zabiciu bossa demonow mozna zabrac w nagrode potezny miecz.", "category1": 5, "category2": 2142}
+{"id": 185616, "x": 1457, "y": 271, "z": 9, "title": "!Start", "description": "Osoba posiadajaca co najmniej 500 poziom doswiadczenia moze zdobyc bicz, ktorym okiezna niejednego wilka.", "category1": 5, "category2": 2146}
+{"id": 185617, "x": 1456, "y": 241, "z": 9, "title": "Nagroda", "description": "Po zabiciu wszystkich potworow, mozna zabrac nagrode. Nalezy zachowac szczegolna ostroznosc, bowiem zabranie skarbu ze skrzyni moze wywoac gniew poteznych stworow.", "category1": 5, "category2": 2146}
+{"id": 185470, "x": 311, "y": 687, "z": 15, "title": "!NPC Wiezien", "description": "U wieznia nalezy zaczac wykonywanie questu.", "category1": 5, "category2": 2106}
+{"id": 185475, "x": 440, "y": 673, "z": 15, "title": "Nagrody", "description": "", "category1": 5, "category2": 2106}
+{"id": 185474, "x": 330, "y": 676, "z": 11, "title": "NPC Beliar", "description": "", "category1": 5, "category2": 2106}
+{"id": 185471, "x": 334, "y": 674, "z": 12, "title": "NPC Gronshar", "description": "", "category1": 5, "category2": 2106}
+{"id": 185473, "x": 365, "y": 133, "z": 6, "title": "NPC Johen", "description": "", "category1": 5, "category2": 2106}
+{"id": 185472, "x": 378, "y": 265, "z": 7, "title": "NPC Pirat Jack", "description": "", "category1": 5, "category2": 2106}
+{"id": 185496, "x": 442, "y": 222, "z": 8, "title": "Nagroda", "description": "W skutych lodem podziemiach Senji ukryto pewien hem. Aby go zdobyc pokonaj wszystkie stworzenia lodowej krainy.", "category1": 5, "category2": 2116}

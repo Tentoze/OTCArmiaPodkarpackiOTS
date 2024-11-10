@@ -1,0 +1,2 @@
+{"id": 219895, "x": 674, "y": 226, "z": 8, "title": "!Wejscie", "description": "Wejscie do pomieszczenia z Demonami.", "category1": 5, "category2": 2576}
+{"id": 219896, "x": 662, "y": 260, "z": 8, "title": "Nagroda", "description": "Pokonaj Demony i zdobadz magiczny pierscien, ktory podwyzszy Twoj poziom magiczny!", "category1": 5, "category2": 2576}

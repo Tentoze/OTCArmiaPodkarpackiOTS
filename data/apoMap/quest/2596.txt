@@ -1,0 +1,1 @@
+{"id": 219981, "x": 351, "y": 227, "z": 9, "title": "Nagrody", "description": "Jesli nie poszczescio nam sie ze zdobyciem ekwipunku na Rooku, mozemy wstapic tutaj, pozabijac kilka Slim&#039;ow i zabrac nagrody. \nJak sie zapewne domyslasz, nagrody nie sa zbyt cenne.", "category1": 5, "category2": 2596}

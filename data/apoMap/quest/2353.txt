@@ -1,0 +1,1 @@
+{"id": 202613, "x": 267, "y": 469, "z": 6, "title": "Nagroda", "description": "Nic nie stoi na przeszkodzie w zdobyciu nagrody! Moze poza jednym niedzwiedziem, z ktorym nawet najmniej doswiadczony bohater sobie poradzi.", "category1": 5, "category2": 2353}

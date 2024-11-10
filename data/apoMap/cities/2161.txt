@@ -1,0 +1,12 @@
+{"id": 185560, "x": 487, "y": 270, "z": 7, "title": "Amazon Camp", "description": "", "category1": 6, "category2": 2161}
+{"id": 185554, "x": 386, "y": 301, "z": 7, "title": "Bamboo Camp", "description": "", "category1": 6, "category2": 2161}
+{"id": 185536, "x": 610, "y": 838, "z": 7, "title": "Behemoth Camp", "description": "", "category1": 6, "category2": 2161}
+{"id": 185534, "x": 653, "y": 696, "z": 7, "title": "Dworc&#039;s Camp", "description": "", "category1": 6, "category2": 2161}
+{"id": 185528, "x": 1293, "y": 437, "z": 7, "title": "Forsaken City", "description": "", "category1": 6, "category2": 2161}
+{"id": 185539, "x": 510, "y": 667, "z": 7, "title": "Lizard Camp", "description": "", "category1": 6, "category2": 2161}
+{"id": 185516, "x": 419, "y": 87, "z": 6, "title": "Lizard Fortress", "description": "", "category1": 6, "category2": 2161}
+{"id": 185530, "x": 1166, "y": 599, "z": 7, "title": "Minotaur Fortress", "description": "", "category1": 6, "category2": 2161}
+{"id": 185535, "x": 658, "y": 799, "z": 7, "title": "Monkey Camp", "description": "", "category1": 6, "category2": 2161}
+{"id": 185510, "x": 190, "y": 47, "z": 7, "title": "Troll Camp", "description": "", "category1": 6, "category2": 2161}
+{"id": 185513, "x": 148, "y": 99, "z": 7, "title": "Western Fort", "description": "", "category1": 6, "category2": 2161}
+{"id": 185547, "x": 175, "y": 385, "z": 7, "title": "Wooden Camp", "description": "", "category1": 6, "category2": 2161}

@@ -1,0 +1,2 @@
+{"id": 219982, "x": 88, "y": 332, "z": 7, "title": "!Wejscie", "description": "Przyjdzie nam sie zmierzyc z masa Demonicznych Szkieletow. Pomocnym moze sie okazac pierscien niewidzialnosci.", "category1": 5, "category2": 2597}
+{"id": 219983, "x": 91, "y": 297, "z": 8, "title": "Nagroda", "description": "jak na poczatek, zbroja moze byc.", "category1": 5, "category2": 2597}
