@@ -199,8 +199,8 @@ function loadFlagsFromFile(option,data)
       if description == "" then
         description = tostring(data.id)
       end
-      minimapWidget:addFlag(pos, "14", description)
-      table.insert(loadedFlags, {pos = pos, icon = "flag14", description = description})
+      minimapWidget:addFlag(pos, "4", description)
+      table.insert(loadedFlags, {pos = pos, icon = "4", description = description})
     end
   end
   file:close()
