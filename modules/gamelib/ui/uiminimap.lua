@@ -126,6 +126,21 @@ function UIMinimap:addFlag(pos, icon, description)
   self:centerInPosition(flag, pos)
 end
 
+function UIMinimap:addTempFlag(pos, icon, description)
+  if not pos or not icon then return end
+
+  local flag = g_ui.createWidget('MinimapFlag')
+  self:insertChild(1, flag)
+  flag.pos = pos
+  flag.description = description
+  flag.icon = icon
+  flag:setIcon('/images/game/minimap/flag' .. icon)
+  flag:setTooltip(description)
+  flag.onMouseRelease = onFlagMouseRelease
+  flag.onDestroy = function() table.removevalue(self.flags, flag) end
+  table.insert(self.flags, flag)
+end
+
 function UIMinimap:addAlternativeWidget(widget, pos, maxZoom)
   widget.pos = pos
   widget.maxZoom = maxZoom or 0
