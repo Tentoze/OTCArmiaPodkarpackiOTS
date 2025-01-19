@@ -651,8 +651,13 @@ function processMouseAction(menuPosition, mouseButton, autoWalkPos, lookThing, u
     if keyboardModifiers == KeyboardNoModifier and mouseButton == MouseRightButton then
       createThingMenu(menuPosition, lookThing, useThing, creatureThing)
       return true
-    elseif lookThing and keyboardModifiers == KeyboardShiftModifier and (mouseButton == MouseLeftButton or mouseButton == MouseRightButton) then
+    elseif lookThing and keyboardModifiers == KeyboardShiftModifier and (mouseButton == MouseLeftButton) then
+      print("essa")
       g_game.look(lookThing)
+      return true
+    elseif lookThing and keyboardModifiers == KeyboardShiftModifier and (mouseButton == MouseRightButton) then
+      print("essa2")
+      g_game.open(lookThing)
       return true
     elseif useThing and keyboardModifiers == KeyboardCtrlModifier and (mouseButton == MouseLeftButton or mouseButton == MouseRightButton) then
       if useThing:isContainer() then
@@ -706,7 +711,13 @@ else
         return true
       end
       return true
-    elseif lookThing and keyboardModifiers == KeyboardShiftModifier and (mouseButton == MouseLeftButton or mouseButton == MouseRightButton) then
+    elseif lookThing and keyboardModifiers == KeyboardShiftModifier and (mouseButton == MouseRightButton) then
+      if useThing:isContainer() then
+        print("essa2")
+        g_game.open(lookThing)
+        return true
+      end
+    elseif lookThing and keyboardModifiers == KeyboardShiftModifier and (mouseButton == MouseLeftButton) then
       g_game.look(lookThing)
       return true
     elseif lookThing and ((g_mouse.isPressed(MouseLeftButton) and mouseButton == MouseRightButton) or (g_mouse.isPressed(MouseRightButton) and mouseButton == MouseLeftButton)) then

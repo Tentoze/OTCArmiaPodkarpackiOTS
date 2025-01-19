@@ -106,6 +106,10 @@ function onContainerOpen(container, previousContainer)
   if not previousContainer then
     modules.game_interface.addToPanels(containerWindow)
   end
+  local keyboardModifiers = g_keyboard.getModifiers()
+  if keyboardModifiers == KeyboardShiftModifier then
+    containerWindow:minimize()
+  end
 
   containerWindow:setup()
 end
